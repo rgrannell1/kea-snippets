@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[xIsNan()]]></content>
+<tabtrigger>x</tabtrigger>
+<scope>text.R</scope>
+<description>Method-xIsNan</description>
+</snippet>
+

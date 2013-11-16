@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[xName()]]></content>
+<tabtrigger>x</tabtrigger>
+<scope>text.R</scope>
+<description>Method-xName</description>
+</snippet>
+

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[xForall()]]></content>
+<tabtrigger>x</tabtrigger>
+<scope>text.R</scope>
+<description>Method-xForall</description>
+</snippet>
+

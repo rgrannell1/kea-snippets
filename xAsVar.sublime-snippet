@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[xAsVar()]]></content>
+<tabtrigger>x</tabtrigger>
+<scope>text.R</scope>
+<description>Method-xAsVar</description>
+</snippet>
+

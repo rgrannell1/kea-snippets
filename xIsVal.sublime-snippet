@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[xIsVal()]]></content>
+<tabtrigger>x</tabtrigger>
+<scope>text.R</scope>
+<description>Method-xIsVal</description>
+</snippet>
+

@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[xVersion()]]></content>
+<tabtrigger>x</tabtrigger>
+<scope>text.R</scope>
+<description>Method-xVersion</description>
+</snippet>
+

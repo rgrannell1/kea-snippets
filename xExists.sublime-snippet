@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[xExists()]]></content>
+<tabtrigger>x</tabtrigger>
+<scope>text.R</scope>
+<description>Method-xExists</description>
+</snippet>
+
