@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xIdentity()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xIdentity(${1})]]></content>
+<tabTrigger>xIdentity</tabTrigger>
 <description>Method-xIdentity</description>
 </snippet>
 

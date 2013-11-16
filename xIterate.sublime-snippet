@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xIterate()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xIterate(${1})]]></content>
+<tabTrigger>xIterate</tabTrigger>
 <description>Method-xIterate</description>
 </snippet>
 

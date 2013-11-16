@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xInter()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xInter(${1})]]></content>
+<tabTrigger>xInter</tabTrigger>
 <description>Method-xInter</description>
 </snippet>
 

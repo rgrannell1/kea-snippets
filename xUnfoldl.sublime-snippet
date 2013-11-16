@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xUnfoldl()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xUnfoldl(${1})]]></content>
+<tabTrigger>xUnfoldl</tabTrigger>
 <description>Method-xUnfoldl</description>
 </snippet>
 

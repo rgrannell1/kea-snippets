@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xChars()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xChars(${1})]]></content>
+<tabTrigger>xChars</tabTrigger>
 <description>Method-xChars</description>
 </snippet>
 

@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xSplitWith()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xSplitWith(${1})]]></content>
+<tabTrigger>xSplitWith</tabTrigger>
 <description>Method-xSplitWith</description>
 </snippet>
 

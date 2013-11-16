@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xAssoc...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xAssoc...(${1})]]></content>
+<tabTrigger>xAssoc...</tabTrigger>
 <description>Method-xAssoc...</description>
 </snippet>
 

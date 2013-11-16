@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xFold()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xFold(${1})]]></content>
+<tabTrigger>xFold</tabTrigger>
 <description>Method-xFold</description>
 </snippet>
 

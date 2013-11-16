@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xFoldr()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xFoldr(${1})]]></content>
+<tabTrigger>xFoldr</tabTrigger>
 <description>Method-xFoldr</description>
 </snippet>
 

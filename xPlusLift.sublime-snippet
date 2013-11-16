@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xPlusLift()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xPlusLift(${1})]]></content>
+<tabTrigger>xPlusLift</tabTrigger>
 <description>Method-xPlusLift</description>
 </snippet>
 

@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xPartial()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xPartial(${1})]]></content>
+<tabTrigger>xPartial</tabTrigger>
 <description>Method-xPartial</description>
 </snippet>
 

@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xName()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xName(${1})]]></content>
+<tabTrigger>xName</tabTrigger>
 <description>Method-xName</description>
 </snippet>
 

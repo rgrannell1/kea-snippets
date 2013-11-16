@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xReducel()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xReducel(${1})]]></content>
+<tabTrigger>xReducel</tabTrigger>
 <description>Method-xReducel</description>
 </snippet>
 

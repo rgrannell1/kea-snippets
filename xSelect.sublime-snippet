@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xSelect()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xSelect(${1})]]></content>
+<tabTrigger>xSelect</tabTrigger>
 <description>Method-xSelect</description>
 </snippet>
 

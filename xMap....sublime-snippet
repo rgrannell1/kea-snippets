@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xMap...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xMap...(${1})]]></content>
+<tabTrigger>xMap...</tabTrigger>
 <description>Method-xMap...</description>
 </snippet>
 

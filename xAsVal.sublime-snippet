@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xAsVal()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xAsVal(${1})]]></content>
+<tabTrigger>xAsVal</tabTrigger>
 <description>Method-xAsVal</description>
 </snippet>
 

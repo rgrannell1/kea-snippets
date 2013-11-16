@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xOrLift()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xOrLift(${1})]]></content>
+<tabTrigger>xOrLift</tabTrigger>
 <description>Method-xOrLift</description>
 </snippet>
 

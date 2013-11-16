@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xUnchars()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xUnchars(${1})]]></content>
+<tabTrigger>xUnchars</tabTrigger>
 <description>Method-xUnchars</description>
 </snippet>
 

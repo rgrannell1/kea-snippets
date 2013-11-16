@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xInit()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xInit(${1})]]></content>
+<tabTrigger>xInit</tabTrigger>
 <description>Method-xInit</description>
 </snippet>
 

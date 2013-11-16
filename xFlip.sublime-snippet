@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xFlip()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xFlip(${1})]]></content>
+<tabTrigger>xFlip</tabTrigger>
 <description>Method-xFlip</description>
 </snippet>
 

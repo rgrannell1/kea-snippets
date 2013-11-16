@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xFilter()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xFilter(${1})]]></content>
+<tabTrigger>xFilter</tabTrigger>
 <description>Method-xFilter</description>
 </snippet>
 

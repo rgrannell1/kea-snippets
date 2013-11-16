@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xSignum...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xSignum...(${1})]]></content>
+<tabTrigger>xSignum...</tabTrigger>
 <description>Method-xSignum...</description>
 </snippet>
 

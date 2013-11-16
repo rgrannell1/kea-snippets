@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xPoll()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xPoll(${1})]]></content>
+<tabTrigger>xPoll</tabTrigger>
 <description>Method-xPoll</description>
 </snippet>
 

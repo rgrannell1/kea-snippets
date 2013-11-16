@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xIsNan...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xIsNan...(${1})]]></content>
+<tabTrigger>xIsNan...</tabTrigger>
 <description>Method-xIsNan...</description>
 </snippet>
 

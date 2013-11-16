@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xParams()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xParams(${1})]]></content>
+<tabTrigger>xParams</tabTrigger>
 <description>Method-xParams</description>
 </snippet>
 

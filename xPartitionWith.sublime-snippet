@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xPartitionWith()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xPartitionWith(${1})]]></content>
+<tabTrigger>xPartitionWith</tabTrigger>
 <description>Method-xPartitionWith</description>
 </snippet>
 

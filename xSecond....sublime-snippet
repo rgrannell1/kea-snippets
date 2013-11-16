@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xSecond...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xSecond...(${1})]]></content>
+<tabTrigger>xSecond...</tabTrigger>
 <description>Method-xSecond...</description>
 </snippet>
 

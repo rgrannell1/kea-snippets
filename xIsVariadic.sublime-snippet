@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xIsVariadic()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xIsVariadic(${1})]]></content>
+<tabTrigger>xIsVariadic</tabTrigger>
 <description>Method-xIsVariadic</description>
 </snippet>
 

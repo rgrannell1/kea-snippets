@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xK()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xK(${1})]]></content>
+<tabTrigger>xK</tabTrigger>
 <description>Method-xK</description>
 </snippet>
 

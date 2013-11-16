@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xTakeWhile...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xTakeWhile...(${1})]]></content>
+<tabTrigger>xTakeWhile...</tabTrigger>
 <description>Method-xTakeWhile...</description>
 </snippet>
 

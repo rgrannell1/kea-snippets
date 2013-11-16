@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xUnwords...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xUnwords...(${1})]]></content>
+<tabTrigger>xUnwords...</tabTrigger>
 <description>Method-xUnwords...</description>
 </snippet>
 

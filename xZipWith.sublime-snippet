@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xZipWith()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xZipWith(${1})]]></content>
+<tabTrigger>xZipWith</tabTrigger>
 <description>Method-xZipWith</description>
 </snippet>
 

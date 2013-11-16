@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xThread...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xThread...(${1})]]></content>
+<tabTrigger>xThread...</tabTrigger>
 <description>Method-xThread...</description>
 </snippet>
 

@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xHasDefs()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xHasDefs(${1})]]></content>
+<tabTrigger>xHasDefs</tabTrigger>
 <description>Method-xHasDefs</description>
 </snippet>
 

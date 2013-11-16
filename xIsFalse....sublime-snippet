@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xIsFalse...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xIsFalse...(${1})]]></content>
+<tabTrigger>xIsFalse...</tabTrigger>
 <description>Method-xIsFalse...</description>
 </snippet>
 

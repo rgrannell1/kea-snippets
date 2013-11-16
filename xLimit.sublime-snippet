@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xLimit()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xLimit(${1})]]></content>
+<tabTrigger>xLimit</tabTrigger>
 <description>Method-xLimit</description>
 </snippet>
 

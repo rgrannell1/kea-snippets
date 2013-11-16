@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xFormals()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xFormals(${1})]]></content>
+<tabTrigger>xFormals</tabTrigger>
 <description>Method-xFormals</description>
 </snippet>
 

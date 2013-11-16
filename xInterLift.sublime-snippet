@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xInterLift()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xInterLift(${1})]]></content>
+<tabTrigger>xInterLift</tabTrigger>
 <description>Method-xInterLift</description>
 </snippet>
 

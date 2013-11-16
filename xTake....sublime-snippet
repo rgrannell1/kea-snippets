@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xTake...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xTake...(${1})]]></content>
+<tabTrigger>xTake...</tabTrigger>
 <description>Method-xTake...</description>
 </snippet>
 

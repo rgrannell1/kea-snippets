@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xUnionLift()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xUnionLift(${1})]]></content>
+<tabTrigger>xUnionLift</tabTrigger>
 <description>Method-xUnionLift</description>
 </snippet>
 

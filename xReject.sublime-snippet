@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xReject()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xReject(${1})]]></content>
+<tabTrigger>xReject</tabTrigger>
 <description>Method-xReject</description>
 </snippet>
 

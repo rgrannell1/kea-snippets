@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xNotTrue()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xNotTrue(${1})]]></content>
+<tabTrigger>xNotTrue</tabTrigger>
 <description>Method-xNotTrue</description>
 </snippet>
 

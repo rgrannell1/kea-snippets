@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xTimer()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xTimer(${1})]]></content>
+<tabTrigger>xTimer</tabTrigger>
 <description>Method-xTimer</description>
 </snippet>
 

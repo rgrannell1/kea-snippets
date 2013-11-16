@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xByLift()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xByLift(${1})]]></content>
+<tabTrigger>xByLift</tabTrigger>
 <description>Method-xByLift</description>
 </snippet>
 

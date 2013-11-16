@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xUnlines...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xUnlines...(${1})]]></content>
+<tabTrigger>xUnlines...</tabTrigger>
 <description>Method-xUnlines...</description>
 </snippet>
 

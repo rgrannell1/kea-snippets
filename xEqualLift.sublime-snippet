@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xEqualLift()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xEqualLift(${1})]]></content>
+<tabTrigger>xEqualLift</tabTrigger>
 <description>Method-xEqualLift</description>
 </snippet>
 

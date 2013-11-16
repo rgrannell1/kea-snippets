@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xDrop...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xDrop...(${1})]]></content>
+<tabTrigger>xDrop...</tabTrigger>
 <description>Method-xDrop...</description>
 </snippet>
 

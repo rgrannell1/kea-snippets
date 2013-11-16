@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xAsFunction()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xAsFunction(${1})]]></content>
+<tabTrigger>xAsFunction</tabTrigger>
 <description>Method-xAsFunction</description>
 </snippet>
 

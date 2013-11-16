@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xDo...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xDo...(${1})]]></content>
+<tabTrigger>xDo...</tabTrigger>
 <description>Method-xDo...</description>
 </snippet>
 

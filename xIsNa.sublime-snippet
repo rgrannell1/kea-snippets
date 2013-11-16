@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xIsNa()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xIsNa(${1})]]></content>
+<tabTrigger>xIsNa</tabTrigger>
 <description>Method-xIsNa</description>
 </snippet>
 

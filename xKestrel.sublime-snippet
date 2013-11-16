@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xKestrel()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xKestrel(${1})]]></content>
+<tabTrigger>xKestrel</tabTrigger>
 <description>Method-xKestrel</description>
 </snippet>
 

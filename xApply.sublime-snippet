@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xApply()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xApply(${1})]]></content>
+<tabTrigger>xApply</tabTrigger>
 <description>Method-xApply</description>
 </snippet>
 

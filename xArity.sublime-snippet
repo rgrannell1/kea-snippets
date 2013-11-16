@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xArity()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xArity(${1})]]></content>
+<tabTrigger>xArity</tabTrigger>
 <description>Method-xArity</description>
 </snippet>
 

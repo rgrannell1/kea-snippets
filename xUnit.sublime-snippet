@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xUnit()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xUnit(${1})]]></content>
+<tabTrigger>xUnit</tabTrigger>
 <description>Method-xUnit</description>
 </snippet>
 

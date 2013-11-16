@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xNegate...()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xNegate...(${1})]]></content>
+<tabTrigger>xNegate...</tabTrigger>
 <description>Method-xNegate...</description>
 </snippet>
 

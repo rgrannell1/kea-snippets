@@ -1,8 +1,7 @@
 
 <snippet>
-<content><![CDATA[xContains()]]></content>
-<tabtrigger>x</tabtrigger>
-<scope>text.R</scope>
+<content><![CDATA[xContains(${1})]]></content>
+<tabTrigger>xContains</tabTrigger>
 <description>Method-xContains</description>
 </snippet>
 
