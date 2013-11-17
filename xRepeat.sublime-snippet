@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xRepeat(${1})]]></content>
-<tabTrigger>xRepeat</tabTrigger>
-<description>Method-xRepeat</description>
+    <description>Arrow-xRepeat</description>
+    <content><![CDATA[xRepeat(${1})]]></content>
+    <tabTrigger>xRepeat</tabTrigger>
 </snippet>
 

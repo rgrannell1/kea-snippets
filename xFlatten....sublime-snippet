@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xFlatten...(${1})]]></content>
-<tabTrigger>xFlatten...</tabTrigger>
-<description>Method-xFlatten...</description>
+    <description>Arrow-xFlatten...</description>
+    <content><![CDATA[xFlatten...(${1})]]></content>
+    <tabTrigger>xFlatten...</tabTrigger>
 </snippet>
 

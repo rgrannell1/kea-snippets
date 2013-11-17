@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xMap(${1})]]></content>
-<tabTrigger>xMap</tabTrigger>
-<description>Method-xMap</description>
+    <description>Arrow-xMap</description>
+    <content><![CDATA[xMap(${1})]]></content>
+    <tabTrigger>xMap</tabTrigger>
 </snippet>
 

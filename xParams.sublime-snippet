@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xParams(${1})]]></content>
-<tabTrigger>xParams</tabTrigger>
-<description>Method-xParams</description>
+    <description>Arrow-xParams</description>
+    <content><![CDATA[xParams(${1})]]></content>
+    <tabTrigger>xParams</tabTrigger>
 </snippet>
 

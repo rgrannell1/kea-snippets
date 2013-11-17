@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xConst(${1})]]></content>
-<tabTrigger>xConst</tabTrigger>
-<description>Method-xConst</description>
+    <description>Arrow-xConst</description>
+    <content><![CDATA[xConst(${1})]]></content>
+    <tabTrigger>xConst</tabTrigger>
 </snippet>
 

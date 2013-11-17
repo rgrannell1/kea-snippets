@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xNotFalse(${1})]]></content>
-<tabTrigger>xNotFalse</tabTrigger>
-<description>Method-xNotFalse</description>
+    <description>Arrow-xNotFalse</description>
+    <content><![CDATA[xNotFalse(${1})]]></content>
+    <tabTrigger>xNotFalse</tabTrigger>
 </snippet>
 

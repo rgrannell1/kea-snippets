@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xDrop...(${1})]]></content>
-<tabTrigger>xDrop...</tabTrigger>
-<description>Method-xDrop...</description>
+    <description>Arrow-xDrop...</description>
+    <content><![CDATA[xDrop...(${1})]]></content>
+    <tabTrigger>xDrop...</tabTrigger>
 </snippet>
 

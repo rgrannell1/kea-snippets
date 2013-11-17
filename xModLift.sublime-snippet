@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xModLift(${1})]]></content>
-<tabTrigger>xModLift</tabTrigger>
-<description>Method-xModLift</description>
+    <description>Arrow-xModLift</description>
+    <content><![CDATA[xModLift(${1})]]></content>
+    <tabTrigger>xModLift</tabTrigger>
 </snippet>
 

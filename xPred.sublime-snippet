@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xPred(${1})]]></content>
-<tabTrigger>xPred</tabTrigger>
-<description>Method-xPred</description>
+    <description>Arrow-xPred</description>
+    <content><![CDATA[xPred(${1})]]></content>
+    <tabTrigger>xPred</tabTrigger>
 </snippet>
 

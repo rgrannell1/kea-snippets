@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xMapMany(${1})]]></content>
-<tabTrigger>xMapMany</tabTrigger>
-<description>Method-xMapMany</description>
+    <description>Arrow-xMapMany</description>
+    <content><![CDATA[xMapMany(${1})]]></content>
+    <tabTrigger>xMapMany</tabTrigger>
 </snippet>
 

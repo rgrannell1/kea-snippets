@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xUnwords(${1})]]></content>
-<tabTrigger>xUnwords</tabTrigger>
-<description>Method-xUnwords</description>
+    <description>Arrow-xUnwords</description>
+    <content><![CDATA[xUnwords(${1})]]></content>
+    <tabTrigger>xUnwords</tabTrigger>
 </snippet>
 

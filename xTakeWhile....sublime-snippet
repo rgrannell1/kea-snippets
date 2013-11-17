@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xTakeWhile...(${1})]]></content>
-<tabTrigger>xTakeWhile...</tabTrigger>
-<description>Method-xTakeWhile...</description>
+    <description>Arrow-xTakeWhile...</description>
+    <content><![CDATA[xTakeWhile...(${1})]]></content>
+    <tabTrigger>xTakeWhile...</tabTrigger>
 </snippet>
 

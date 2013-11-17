@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xPhoenix(${1})]]></content>
-<tabTrigger>xPhoenix</tabTrigger>
-<description>Method-xPhoenix</description>
+    <description>Arrow-xPhoenix</description>
+    <content><![CDATA[xPhoenix(${1})]]></content>
+    <tabTrigger>xPhoenix</tabTrigger>
 </snippet>
 

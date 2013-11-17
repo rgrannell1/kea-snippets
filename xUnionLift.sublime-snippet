@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xUnionLift(${1})]]></content>
-<tabTrigger>xUnionLift</tabTrigger>
-<description>Method-xUnionLift</description>
+    <description>Arrow-xUnionLift</description>
+    <content><![CDATA[xUnionLift(${1})]]></content>
+    <tabTrigger>xUnionLift</tabTrigger>
 </snippet>
 

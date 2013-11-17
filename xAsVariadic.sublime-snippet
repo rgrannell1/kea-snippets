@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xAsVariadic(${1})]]></content>
-<tabTrigger>xAsVariadic</tabTrigger>
-<description>Method-xAsVariadic</description>
+    <description>Arrow-xAsVariadic</description>
+    <content><![CDATA[xAsVariadic(${1})]]></content>
+    <tabTrigger>xAsVariadic</tabTrigger>
 </snippet>
 

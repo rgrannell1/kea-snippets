@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xDo(${1})]]></content>
-<tabTrigger>xDo</tabTrigger>
-<description>Method-xDo</description>
+    <description>Arrow-xDo</description>
+    <content><![CDATA[xDo(${1})]]></content>
+    <tabTrigger>xDo</tabTrigger>
 </snippet>
 

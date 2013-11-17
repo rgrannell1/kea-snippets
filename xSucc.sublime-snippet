@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xSucc(${1})]]></content>
-<tabTrigger>xSucc</tabTrigger>
-<description>Method-xSucc</description>
+    <description>Arrow-xSucc</description>
+    <content><![CDATA[xSucc(${1})]]></content>
+    <tabTrigger>xSucc</tabTrigger>
 </snippet>
 

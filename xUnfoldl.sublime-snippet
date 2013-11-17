@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xUnfoldl(${1})]]></content>
-<tabTrigger>xUnfoldl</tabTrigger>
-<description>Method-xUnfoldl</description>
+    <description>Arrow-xUnfoldl</description>
+    <content><![CDATA[xUnfoldl(${1})]]></content>
+    <tabTrigger>xUnfoldl</tabTrigger>
 </snippet>
 

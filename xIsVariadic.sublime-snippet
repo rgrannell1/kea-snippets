@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xIsVariadic(${1})]]></content>
-<tabTrigger>xIsVariadic</tabTrigger>
-<description>Method-xIsVariadic</description>
+    <description>Arrow-xIsVariadic</description>
+    <content><![CDATA[xIsVariadic(${1})]]></content>
+    <tabTrigger>xIsVariadic</tabTrigger>
 </snippet>
 

@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xIsVal(${1})]]></content>
-<tabTrigger>xIsVal</tabTrigger>
-<description>Method-xIsVal</description>
+    <description>Arrow-xIsVal</description>
+    <content><![CDATA[xIsVal(${1})]]></content>
+    <tabTrigger>xIsVal</tabTrigger>
 </snippet>
 

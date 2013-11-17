@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xDissoc...(${1})]]></content>
-<tabTrigger>xDissoc...</tabTrigger>
-<description>Method-xDissoc...</description>
+    <description>Arrow-xDissoc...</description>
+    <content><![CDATA[xDissoc...(${1})]]></content>
+    <tabTrigger>xDissoc...</tabTrigger>
 </snippet>
 

@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xVersion(${1})]]></content>
-<tabTrigger>xVersion</tabTrigger>
-<description>Method-xVersion</description>
+    <description>Arrow-xVersion</description>
+    <content><![CDATA[xVersion(${1})]]></content>
+    <tabTrigger>xVersion</tabTrigger>
 </snippet>
 

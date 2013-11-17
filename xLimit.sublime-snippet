@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xLimit(${1})]]></content>
-<tabTrigger>xLimit</tabTrigger>
-<description>Method-xLimit</description>
+    <description>Arrow-xLimit</description>
+    <content><![CDATA[xLimit(${1})]]></content>
+    <tabTrigger>xLimit</tabTrigger>
 </snippet>
 

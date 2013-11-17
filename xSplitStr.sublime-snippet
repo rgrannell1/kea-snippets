@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xSplitStr(${1})]]></content>
-<tabTrigger>xSplitStr</tabTrigger>
-<description>Method-xSplitStr</description>
+    <description>Arrow-xSplitStr</description>
+    <content><![CDATA[xSplitStr(${1})]]></content>
+    <tabTrigger>xSplitStr</tabTrigger>
 </snippet>
 

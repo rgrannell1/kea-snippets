@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xCombos(${1})]]></content>
-<tabTrigger>xCombos</tabTrigger>
-<description>Method-xCombos</description>
+    <description>Arrow-xCombos</description>
+    <content><![CDATA[xCombos(${1})]]></content>
+    <tabTrigger>xCombos</tabTrigger>
 </snippet>
 

@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xContains...(${1})]]></content>
-<tabTrigger>xContains...</tabTrigger>
-<description>Method-xContains...</description>
+    <description>Arrow-xContains...</description>
+    <content><![CDATA[xContains...(${1})]]></content>
+    <tabTrigger>xContains...</tabTrigger>
 </snippet>
 

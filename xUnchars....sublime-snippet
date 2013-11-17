@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xUnchars...(${1})]]></content>
-<tabTrigger>xUnchars...</tabTrigger>
-<description>Method-xUnchars...</description>
+    <description>Arrow-xUnchars...</description>
+    <content><![CDATA[xUnchars...(${1})]]></content>
+    <tabTrigger>xUnchars...</tabTrigger>
 </snippet>
 

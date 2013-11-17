@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xSubStr...(${1})]]></content>
-<tabTrigger>xSubStr...</tabTrigger>
-<description>Method-xSubStr...</description>
+    <description>Arrow-xSubStr...</description>
+    <content><![CDATA[xSubStr...(${1})]]></content>
+    <tabTrigger>xSubStr...</tabTrigger>
 </snippet>
 

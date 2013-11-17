@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xIsNan...(${1})]]></content>
-<tabTrigger>xIsNan...</tabTrigger>
-<description>Method-xIsNan...</description>
+    <description>Arrow-xIsNan...</description>
+    <content><![CDATA[xIsNan...(${1})]]></content>
+    <tabTrigger>xIsNan...</tabTrigger>
 </snippet>
 

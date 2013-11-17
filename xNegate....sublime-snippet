@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xNegate...(${1})]]></content>
-<tabTrigger>xNegate...</tabTrigger>
-<description>Method-xNegate...</description>
+    <description>Arrow-xNegate...</description>
+    <content><![CDATA[xNegate...(${1})]]></content>
+    <tabTrigger>xNegate...</tabTrigger>
 </snippet>
 

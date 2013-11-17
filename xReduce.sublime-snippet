@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xReduce(${1})]]></content>
-<tabTrigger>xReduce</tabTrigger>
-<description>Method-xReduce</description>
+    <description>Arrow-xReduce</description>
+    <content><![CDATA[xReduce(${1})]]></content>
+    <tabTrigger>xReduce</tabTrigger>
 </snippet>
 

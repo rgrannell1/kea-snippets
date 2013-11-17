@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xLocatel(${1})]]></content>
-<tabTrigger>xLocatel</tabTrigger>
-<description>Method-xLocatel</description>
+    <description>Arrow-xLocatel</description>
+    <content><![CDATA[xLocatel(${1})]]></content>
+    <tabTrigger>xLocatel</tabTrigger>
 </snippet>
 

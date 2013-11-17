@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xAsUnary(${1})]]></content>
-<tabTrigger>xAsUnary</tabTrigger>
-<description>Method-xAsUnary</description>
+    <description>Arrow-xAsUnary</description>
+    <content><![CDATA[xAsUnary(${1})]]></content>
+    <tabTrigger>xAsUnary</tabTrigger>
 </snippet>
 

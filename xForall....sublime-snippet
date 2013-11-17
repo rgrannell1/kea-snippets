@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xForall...(${1})]]></content>
-<tabTrigger>xForall...</tabTrigger>
-<description>Method-xForall...</description>
+    <description>Arrow-xForall...</description>
+    <content><![CDATA[xForall...(${1})]]></content>
+    <tabTrigger>xForall...</tabTrigger>
 </snippet>
 

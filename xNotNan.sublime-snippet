@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xNotNan(${1})]]></content>
-<tabTrigger>xNotNan</tabTrigger>
-<description>Method-xNotNan</description>
+    <description>Arrow-xNotNan</description>
+    <content><![CDATA[xNotNan(${1})]]></content>
+    <tabTrigger>xNotNan</tabTrigger>
 </snippet>
 

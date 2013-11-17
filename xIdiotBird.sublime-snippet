@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xIdiotBird(${1})]]></content>
-<tabTrigger>xIdiotBird</tabTrigger>
-<description>Method-xIdiotBird</description>
+    <description>Arrow-xIdiotBird</description>
+    <content><![CDATA[xIdiotBird(${1})]]></content>
+    <tabTrigger>xIdiotBird</tabTrigger>
 </snippet>
 

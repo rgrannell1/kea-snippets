@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xDiffer(${1})]]></content>
-<tabTrigger>xDiffer</tabTrigger>
-<description>Method-xDiffer</description>
+    <description>Arrow-xDiffer</description>
+    <content><![CDATA[xDiffer(${1})]]></content>
+    <tabTrigger>xDiffer</tabTrigger>
 </snippet>
 

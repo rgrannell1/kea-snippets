@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xGet(${1})]]></content>
-<tabTrigger>xGet</tabTrigger>
-<description>Method-xGet</description>
+    <description>Arrow-xGet</description>
+    <content><![CDATA[xGet(${1})]]></content>
+    <tabTrigger>xGet</tabTrigger>
 </snippet>
 

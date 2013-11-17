@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xSetProd(${1})]]></content>
-<tabTrigger>xSetProd</tabTrigger>
-<description>Method-xSetProd</description>
+    <description>Arrow-xSetProd</description>
+    <content><![CDATA[xSetProd(${1})]]></content>
+    <tabTrigger>xSetProd</tabTrigger>
 </snippet>
 

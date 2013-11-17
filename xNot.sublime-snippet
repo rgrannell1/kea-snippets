@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xNot(${1})]]></content>
-<tabTrigger>xNot</tabTrigger>
-<description>Method-xNot</description>
+    <description>Arrow-xNot</description>
+    <content><![CDATA[xNot(${1})]]></content>
+    <tabTrigger>xNot</tabTrigger>
 </snippet>
 

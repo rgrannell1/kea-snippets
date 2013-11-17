@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xRest(${1})]]></content>
-<tabTrigger>xRest</tabTrigger>
-<description>Method-xRest</description>
+    <description>Arrow-xRest</description>
+    <content><![CDATA[xRest(${1})]]></content>
+    <tabTrigger>xRest</tabTrigger>
 </snippet>
 

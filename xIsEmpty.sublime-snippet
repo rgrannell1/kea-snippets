@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xIsEmpty(${1})]]></content>
-<tabTrigger>xIsEmpty</tabTrigger>
-<description>Method-xIsEmpty</description>
+    <description>Arrow-xIsEmpty</description>
+    <content><![CDATA[xIsEmpty(${1})]]></content>
+    <tabTrigger>xIsEmpty</tabTrigger>
 </snippet>
 

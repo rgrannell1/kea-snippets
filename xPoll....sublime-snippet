@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xPoll...(${1})]]></content>
-<tabTrigger>xPoll...</tabTrigger>
-<description>Method-xPoll...</description>
+    <description>Arrow-xPoll...</description>
+    <content><![CDATA[xPoll...(${1})]]></content>
+    <tabTrigger>xPoll...</tabTrigger>
 </snippet>
 

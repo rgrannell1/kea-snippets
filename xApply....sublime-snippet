@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xApply...(${1})]]></content>
-<tabTrigger>xApply...</tabTrigger>
-<description>Method-xApply...</description>
+    <description>Arrow-xApply...</description>
+    <content><![CDATA[xApply...(${1})]]></content>
+    <tabTrigger>xApply...</tabTrigger>
 </snippet>
 

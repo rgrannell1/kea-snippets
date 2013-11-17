@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xPlusLift(${1})]]></content>
-<tabTrigger>xPlusLift</tabTrigger>
-<description>Method-xPlusLift</description>
+    <description>Arrow-xPlusLift</description>
+    <content><![CDATA[xPlusLift(${1})]]></content>
+    <tabTrigger>xPlusLift</tabTrigger>
 </snippet>
 

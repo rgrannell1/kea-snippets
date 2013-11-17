@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xInterLift(${1})]]></content>
-<tabTrigger>xInterLift</tabTrigger>
-<description>Method-xInterLift</description>
+    <description>Arrow-xInterLift</description>
+    <content><![CDATA[xInterLift(${1})]]></content>
+    <tabTrigger>xInterLift</tabTrigger>
 </snippet>
 

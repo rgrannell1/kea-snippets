@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xCollapse(${1})]]></content>
-<tabTrigger>xCollapse</tabTrigger>
-<description>Method-xCollapse</description>
+    <description>Arrow-xCollapse</description>
+    <content><![CDATA[xCollapse(${1})]]></content>
+    <tabTrigger>xCollapse</tabTrigger>
 </snippet>
 

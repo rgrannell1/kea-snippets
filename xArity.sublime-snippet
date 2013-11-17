@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xArity(${1})]]></content>
-<tabTrigger>xArity</tabTrigger>
-<description>Method-xArity</description>
+    <description>Arrow-xArity</description>
+    <content><![CDATA[xArity(${1})]]></content>
+    <tabTrigger>xArity</tabTrigger>
 </snippet>
 

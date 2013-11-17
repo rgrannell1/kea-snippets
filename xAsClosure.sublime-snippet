@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xAsClosure(${1})]]></content>
-<tabTrigger>xAsClosure</tabTrigger>
-<description>Method-xAsClosure</description>
+    <description>Arrow-xAsClosure</description>
+    <content><![CDATA[xAsClosure(${1})]]></content>
+    <tabTrigger>xAsClosure</tabTrigger>
 </snippet>
 

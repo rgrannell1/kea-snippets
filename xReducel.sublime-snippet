@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xReducel(${1})]]></content>
-<tabTrigger>xReducel</tabTrigger>
-<description>Method-xReducel</description>
+    <description>Arrow-xReducel</description>
+    <content><![CDATA[xReducel(${1})]]></content>
+    <tabTrigger>xReducel</tabTrigger>
 </snippet>
 

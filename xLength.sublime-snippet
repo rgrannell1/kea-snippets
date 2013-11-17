@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xLength(${1})]]></content>
-<tabTrigger>xLength</tabTrigger>
-<description>Method-xLength</description>
+    <description>Arrow-xLength</description>
+    <content><![CDATA[xLength(${1})]]></content>
+    <tabTrigger>xLength</tabTrigger>
 </snippet>
 

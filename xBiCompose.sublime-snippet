@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xBiCompose(${1})]]></content>
-<tabTrigger>xBiCompose</tabTrigger>
-<description>Method-xBiCompose</description>
+    <description>Arrow-xBiCompose</description>
+    <content><![CDATA[xBiCompose(${1})]]></content>
+    <tabTrigger>xBiCompose</tabTrigger>
 </snippet>
 

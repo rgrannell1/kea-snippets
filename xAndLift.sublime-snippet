@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xAndLift(${1})]]></content>
-<tabTrigger>xAndLift</tabTrigger>
-<description>Method-xAndLift</description>
+    <description>Arrow-xAndLift</description>
+    <content><![CDATA[xAndLift(${1})]]></content>
+    <tabTrigger>xAndLift</tabTrigger>
 </snippet>
 

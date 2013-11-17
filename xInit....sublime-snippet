@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xInit...(${1})]]></content>
-<tabTrigger>xInit...</tabTrigger>
-<description>Method-xInit...</description>
+    <description>Arrow-xInit...</description>
+    <content><![CDATA[xInit...(${1})]]></content>
+    <tabTrigger>xInit...</tabTrigger>
 </snippet>
 

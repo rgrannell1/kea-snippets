@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xPartition...(${1})]]></content>
-<tabTrigger>xPartition...</tabTrigger>
-<description>Method-xPartition...</description>
+    <description>Arrow-xPartition...</description>
+    <content><![CDATA[xPartition...(${1})]]></content>
+    <tabTrigger>xPartition...</tabTrigger>
 </snippet>
 

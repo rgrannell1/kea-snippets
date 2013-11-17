@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xAsFunction...(${1})]]></content>
-<tabTrigger>xAsFunction...</tabTrigger>
-<description>Method-xAsFunction...</description>
+    <description>Arrow-xAsFunction...</description>
+    <content><![CDATA[xAsFunction...(${1})]]></content>
+    <tabTrigger>xAsFunction...</tabTrigger>
 </snippet>
 

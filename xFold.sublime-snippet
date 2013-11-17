@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xFold(${1})]]></content>
-<tabTrigger>xFold</tabTrigger>
-<description>Method-xFold</description>
+    <description>Arrow-xFold</description>
+    <content><![CDATA[xFold(${1})]]></content>
+    <tabTrigger>xFold</tabTrigger>
 </snippet>
 

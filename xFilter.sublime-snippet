@@ -1,7 +1,7 @@
 
 <snippet>
-<content><![CDATA[xFilter(${1})]]></content>
-<tabTrigger>xFilter</tabTrigger>
-<description>Method-xFilter</description>
+    <description>Arrow-xFilter</description>
+    <content><![CDATA[xFilter(${1})]]></content>
+    <tabTrigger>xFilter</tabTrigger>
 </snippet>
 
