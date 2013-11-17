@@ -16,5 +16,5 @@ Ryan Grannell
 
 ## 3 License
 
-As with **Arrow**, **Arrow-Snippets** is released under the terms of the GPL-3.
+As with **Arrow**, **Arrow-Snippets** is released under the terms of the GNU General Public License version 3.
 
