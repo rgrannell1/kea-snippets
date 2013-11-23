@@ -1,7 +1,7 @@
 #!/bin/bash
 
 method_pattern='x[A-Z]\{1\}[^)]*'
-arrow_namespace_path=/home/ryan/Code/Arrow/arrow-clean/NAMESPACE
+arrow_namespace_path=/home/ryan/Code/Arrow/arrow/NAMESPACE
 
 function makeMethodSnippet () {
 	# create a snippet for a method.

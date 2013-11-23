@@ -1,7 +1,0 @@
-
-<snippet>
-    <description>Arrow-xScan</description>
-    <content><![CDATA[xScan(${1})]]></content>
-    <tabTrigger>xScan</tabTrigger>
-</snippet>
-
