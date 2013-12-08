@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xSetProd...</description>
-    <content><![CDATA[xSetProd...(${1})]]></content>
+    <content><![CDATA[xSetProd...]]></content>
     <tabTrigger>xSetProd...</tabTrigger>
 </snippet>
 

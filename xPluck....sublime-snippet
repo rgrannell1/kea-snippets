@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xPluck...</description>
-    <content><![CDATA[xPluck...(${1})]]></content>
+    <content><![CDATA[xPluck...]]></content>
     <tabTrigger>xPluck...</tabTrigger>
 </snippet>
 

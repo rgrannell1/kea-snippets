@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xIsNull</description>
-    <content><![CDATA[xIsNull(${1})]]></content>
+    <content><![CDATA[xIsNull]]></content>
     <tabTrigger>xIsNull</tabTrigger>
 </snippet>
 

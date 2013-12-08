@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xLimit</description>
-    <content><![CDATA[xLimit(${1})]]></content>
+    <content><![CDATA[xLimit]]></content>
     <tabTrigger>xLimit</tabTrigger>
 </snippet>
 

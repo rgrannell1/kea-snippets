@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xSignum</description>
-    <content><![CDATA[xSignum(${1})]]></content>
+    <content><![CDATA[xSignum]]></content>
     <tabTrigger>xSignum</tabTrigger>
 </snippet>
 

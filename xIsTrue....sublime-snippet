@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xIsTrue...</description>
-    <content><![CDATA[xIsTrue...(${1})]]></content>
+    <content><![CDATA[xIsTrue...]]></content>
     <tabTrigger>xIsTrue...</tabTrigger>
 </snippet>
 

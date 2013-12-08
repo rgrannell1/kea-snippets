@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xPack</description>
-    <content><![CDATA[xPack(${1})]]></content>
+    <content><![CDATA[xPack]]></content>
     <tabTrigger>xPack</tabTrigger>
 </snippet>
 

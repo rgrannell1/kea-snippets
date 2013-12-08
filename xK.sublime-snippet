@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xK</description>
-    <content><![CDATA[xK(${1})]]></content>
+    <content><![CDATA[xK]]></content>
     <tabTrigger>xK</tabTrigger>
 </snippet>
 

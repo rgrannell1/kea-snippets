@@ -1,7 +1,0 @@
-
-<snippet>
-    <description>Arrow-xOrLift</description>
-    <content><![CDATA[xOrLift(${1})]]></content>
-    <tabTrigger>xOrLift</tabTrigger>
-</snippet>
-

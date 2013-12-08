@@ -1,7 +1,0 @@
-
-<snippet>
-    <description>Arrow-xOverLift</description>
-    <content><![CDATA[xOverLift(${1})]]></content>
-    <tabTrigger>xOverLift</tabTrigger>
-</snippet>
-

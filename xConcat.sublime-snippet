@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xConcat</description>
-    <content><![CDATA[xConcat(${1})]]></content>
+    <content><![CDATA[xConcat]]></content>
     <tabTrigger>xConcat</tabTrigger>
 </snippet>
 

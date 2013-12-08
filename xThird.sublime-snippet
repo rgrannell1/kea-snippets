@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xThird</description>
-    <content><![CDATA[xThird(${1})]]></content>
+    <content><![CDATA[xThird]]></content>
     <tabTrigger>xThird</tabTrigger>
 </snippet>
 

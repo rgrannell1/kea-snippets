@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xIdiotBird</description>
-    <content><![CDATA[xIdiotBird(${1})]]></content>
+    <content><![CDATA[xIdiotBird]]></content>
     <tabTrigger>xIdiotBird</tabTrigger>
 </snippet>
 

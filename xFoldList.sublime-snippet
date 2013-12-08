@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xFoldList</description>
-    <content><![CDATA[xFoldList(${1})]]></content>
+    <content><![CDATA[xFoldList]]></content>
     <tabTrigger>xFoldList</tabTrigger>
 </snippet>
 

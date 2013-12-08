@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xIterate</description>
-    <content><![CDATA[xIterate(${1})]]></content>
+    <content><![CDATA[xIterate]]></content>
     <tabTrigger>xIterate</tabTrigger>
 </snippet>
 

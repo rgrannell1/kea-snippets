@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xTimer</description>
-    <content><![CDATA[xTimer(${1})]]></content>
+    <content><![CDATA[xTimer]]></content>
     <tabTrigger>xTimer</tabTrigger>
 </snippet>
 

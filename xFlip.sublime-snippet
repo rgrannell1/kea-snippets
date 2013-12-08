@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xFlip</description>
-    <content><![CDATA[xFlip(${1})]]></content>
+    <content><![CDATA[xFlip]]></content>
     <tabTrigger>xFlip</tabTrigger>
 </snippet>
 

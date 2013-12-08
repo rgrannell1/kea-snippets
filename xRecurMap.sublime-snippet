@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xRecurMap</description>
-    <content><![CDATA[xRecurMap(${1})]]></content>
+    <content><![CDATA[xRecurMap]]></content>
     <tabTrigger>xRecurMap</tabTrigger>
 </snippet>
 

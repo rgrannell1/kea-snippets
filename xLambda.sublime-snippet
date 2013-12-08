@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xLambda</description>
-    <content><![CDATA[xLambda(${1})]]></content>
+    <content><![CDATA[xLambda]]></content>
     <tabTrigger>xLambda</tabTrigger>
 </snippet>
 

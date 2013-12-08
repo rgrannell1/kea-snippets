@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xKestrel</description>
-    <content><![CDATA[xKestrel(${1})]]></content>
+    <content><![CDATA[xKestrel]]></content>
     <tabTrigger>xKestrel</tabTrigger>
 </snippet>
 

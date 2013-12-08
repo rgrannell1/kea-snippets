@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xFirst</description>
-    <content><![CDATA[xFirst(${1})]]></content>
+    <content><![CDATA[xFirst]]></content>
     <tabTrigger>xFirst</tabTrigger>
 </snippet>
 

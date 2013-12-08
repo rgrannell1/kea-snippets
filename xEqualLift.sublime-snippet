@@ -1,7 +1,0 @@
-
-<snippet>
-    <description>Arrow-xEqualLift</description>
-    <content><![CDATA[xEqualLift(${1})]]></content>
-    <tabTrigger>xEqualLift</tabTrigger>
-</snippet>
-

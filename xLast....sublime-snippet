@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xLast...</description>
-    <content><![CDATA[xLast...(${1})]]></content>
+    <content><![CDATA[xLast...]]></content>
     <tabTrigger>xLast...</tabTrigger>
 </snippet>
 

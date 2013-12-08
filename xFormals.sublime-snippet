@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xFormals</description>
-    <content><![CDATA[xFormals(${1})]]></content>
+    <content><![CDATA[xFormals]]></content>
     <tabTrigger>xFormals</tabTrigger>
 </snippet>
 

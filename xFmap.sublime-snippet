@@ -1,7 +1,0 @@
-
-<snippet>
-    <description>Arrow-xFmap</description>
-    <content><![CDATA[xFmap(${1})]]></content>
-    <tabTrigger>xFmap</tabTrigger>
-</snippet>
-

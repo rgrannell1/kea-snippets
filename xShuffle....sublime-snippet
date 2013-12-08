@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xShuffle...</description>
-    <content><![CDATA[xShuffle...(${1})]]></content>
+    <content><![CDATA[xShuffle...]]></content>
     <tabTrigger>xShuffle...</tabTrigger>
 </snippet>
 

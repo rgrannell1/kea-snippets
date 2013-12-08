@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xMapWhen...</description>
-    <content><![CDATA[xMapWhen...(${1})]]></content>
+    <content><![CDATA[xMapWhen...]]></content>
     <tabTrigger>xMapWhen...</tabTrigger>
 </snippet>
 

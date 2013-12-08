@@ -1,7 +1,0 @@
-
-<snippet>
-    <description>Arrow-xInterLift</description>
-    <content><![CDATA[xInterLift(${1})]]></content>
-    <tabTrigger>xInterLift</tabTrigger>
-</snippet>
-

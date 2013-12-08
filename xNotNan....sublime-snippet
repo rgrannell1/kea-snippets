@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xNotNan...</description>
-    <content><![CDATA[xNotNan...(${1})]]></content>
+    <content><![CDATA[xNotNan...]]></content>
     <tabTrigger>xNotNan...</tabTrigger>
 </snippet>
 

@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xDrop...</description>
-    <content><![CDATA[xDrop...(${1})]]></content>
+    <content><![CDATA[xDrop...]]></content>
     <tabTrigger>xDrop...</tabTrigger>
 </snippet>
 

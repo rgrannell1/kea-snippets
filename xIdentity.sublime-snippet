@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xIdentity</description>
-    <content><![CDATA[xIdentity(${1})]]></content>
+    <content><![CDATA[xIdentity]]></content>
     <tabTrigger>xIdentity</tabTrigger>
 </snippet>
 

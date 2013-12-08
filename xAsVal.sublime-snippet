@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xAsVal</description>
-    <content><![CDATA[xAsVal(${1})]]></content>
+    <content><![CDATA[xAsVal]]></content>
     <tabTrigger>xAsVal</tabTrigger>
 </snippet>
 

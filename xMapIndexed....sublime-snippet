@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xMapIndexed...</description>
-    <content><![CDATA[xMapIndexed...(${1})]]></content>
+    <content><![CDATA[xMapIndexed...]]></content>
     <tabTrigger>xMapIndexed...</tabTrigger>
 </snippet>
 

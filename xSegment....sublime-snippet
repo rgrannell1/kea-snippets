@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xSegment...</description>
-    <content><![CDATA[xSegment...(${1})]]></content>
+    <content><![CDATA[xSegment...]]></content>
     <tabTrigger>xSegment...</tabTrigger>
 </snippet>
 

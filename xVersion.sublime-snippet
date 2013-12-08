@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xVersion</description>
-    <content><![CDATA[xVersion(${1})]]></content>
+    <content><![CDATA[xVersion]]></content>
     <tabTrigger>xVersion</tabTrigger>
 </snippet>
 

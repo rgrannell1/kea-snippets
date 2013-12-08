@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xPartitionWith</description>
-    <content><![CDATA[xPartitionWith(${1})]]></content>
+    <content><![CDATA[xPartitionWith]]></content>
     <tabTrigger>xPartitionWith</tabTrigger>
 </snippet>
 

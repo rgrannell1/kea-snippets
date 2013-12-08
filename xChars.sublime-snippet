@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xChars</description>
-    <content><![CDATA[xChars(${1})]]></content>
+    <content><![CDATA[xChars]]></content>
     <tabTrigger>xChars</tabTrigger>
 </snippet>
 

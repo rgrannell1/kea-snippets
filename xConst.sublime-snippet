@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xConst</description>
-    <content><![CDATA[xConst(${1})]]></content>
+    <content><![CDATA[xConst]]></content>
     <tabTrigger>xConst</tabTrigger>
 </snippet>
 

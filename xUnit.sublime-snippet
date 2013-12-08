@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xUnit</description>
-    <content><![CDATA[xUnit(${1})]]></content>
+    <content><![CDATA[xUnit]]></content>
     <tabTrigger>xUnit</tabTrigger>
 </snippet>
 

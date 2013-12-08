@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xExists...</description>
-    <content><![CDATA[xExists...(${1})]]></content>
+    <content><![CDATA[xExists...]]></content>
     <tabTrigger>xExists...</tabTrigger>
 </snippet>
 

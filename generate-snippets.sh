@@ -13,7 +13,7 @@ function makeMethodSnippet () {
 
 	<snippet>
 	    <description>Arrow-$method_name</description>
-	    <content><![CDATA[$method_name(\${1})]]></content>
+	    <content><![CDATA[$method_name]]></content>
 	    <tabTrigger>$method_name</tabTrigger>
 	</snippet>
 

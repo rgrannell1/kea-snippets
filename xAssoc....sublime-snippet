@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xAssoc...</description>
-    <content><![CDATA[xAssoc...(${1})]]></content>
+    <content><![CDATA[xAssoc...]]></content>
     <tabTrigger>xAssoc...</tabTrigger>
 </snippet>
 

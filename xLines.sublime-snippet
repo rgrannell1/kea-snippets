@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xLines</description>
-    <content><![CDATA[xLines(${1})]]></content>
+    <content><![CDATA[xLines]]></content>
     <tabTrigger>xLines</tabTrigger>
 </snippet>
 

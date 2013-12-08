@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xPoll...</description>
-    <content><![CDATA[xPoll...(${1})]]></content>
+    <content><![CDATA[xPoll...]]></content>
     <tabTrigger>xPoll...</tabTrigger>
 </snippet>
 

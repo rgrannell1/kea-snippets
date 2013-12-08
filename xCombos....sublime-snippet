@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xCombos...</description>
-    <content><![CDATA[xCombos...(${1})]]></content>
+    <content><![CDATA[xCombos...]]></content>
     <tabTrigger>xCombos...</tabTrigger>
 </snippet>
 

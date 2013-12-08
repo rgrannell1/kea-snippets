@@ -1,7 +1,0 @@
-
-<snippet>
-    <description>Arrow-xDifferLift</description>
-    <content><![CDATA[xDifferLift(${1})]]></content>
-    <tabTrigger>xDifferLift</tabTrigger>
-</snippet>
-

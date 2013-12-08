@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xNotNa</description>
-    <content><![CDATA[xNotNa(${1})]]></content>
+    <content><![CDATA[xNotNa]]></content>
     <tabTrigger>xNotNa</tabTrigger>
 </snippet>
 

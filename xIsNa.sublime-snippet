@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xIsNa</description>
-    <content><![CDATA[xIsNa(${1})]]></content>
+    <content><![CDATA[xIsNa]]></content>
     <tabTrigger>xIsNa</tabTrigger>
 </snippet>
 

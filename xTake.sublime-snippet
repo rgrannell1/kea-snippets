@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xTake</description>
-    <content><![CDATA[xTake(${1})]]></content>
+    <content><![CDATA[xTake]]></content>
     <tabTrigger>xTake</tabTrigger>
 </snippet>
 

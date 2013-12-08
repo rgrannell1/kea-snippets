@@ -1,7 +1,0 @@
-
-<snippet>
-    <description>Arrow-xByLift</description>
-    <content><![CDATA[xByLift(${1})]]></content>
-    <tabTrigger>xByLift</tabTrigger>
-</snippet>
-

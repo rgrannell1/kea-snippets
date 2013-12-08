@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xInter</description>
-    <content><![CDATA[xInter(${1})]]></content>
+    <content><![CDATA[xInter]]></content>
     <tabTrigger>xInter</tabTrigger>
 </snippet>
 

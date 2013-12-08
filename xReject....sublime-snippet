@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xReject...</description>
-    <content><![CDATA[xReject...(${1})]]></content>
+    <content><![CDATA[xReject...]]></content>
     <tabTrigger>xReject...</tabTrigger>
 </snippet>
 

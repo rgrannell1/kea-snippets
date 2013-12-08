@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xApply</description>
-    <content><![CDATA[xApply(${1})]]></content>
+    <content><![CDATA[xApply]]></content>
     <tabTrigger>xApply</tabTrigger>
 </snippet>
 

@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xPartial...</description>
-    <content><![CDATA[xPartial...(${1})]]></content>
+    <content><![CDATA[xPartial...]]></content>
     <tabTrigger>xPartial...</tabTrigger>
 </snippet>
 

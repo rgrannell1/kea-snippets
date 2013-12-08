@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xHasDefs</description>
-    <content><![CDATA[xHasDefs(${1})]]></content>
+    <content><![CDATA[xHasDefs]]></content>
     <tabTrigger>xHasDefs</tabTrigger>
 </snippet>
 

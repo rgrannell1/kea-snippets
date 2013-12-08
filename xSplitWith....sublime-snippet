@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xSplitWith...</description>
-    <content><![CDATA[xSplitWith...(${1})]]></content>
+    <content><![CDATA[xSplitWith...]]></content>
     <tabTrigger>xSplitWith...</tabTrigger>
 </snippet>
 

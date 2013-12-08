@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xJuxtapose...</description>
-    <content><![CDATA[xJuxtapose...(${1})]]></content>
+    <content><![CDATA[xJuxtapose...]]></content>
     <tabTrigger>xJuxtapose...</tabTrigger>
 </snippet>
 

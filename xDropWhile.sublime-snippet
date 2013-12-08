@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xDropWhile</description>
-    <content><![CDATA[xDropWhile(${1})]]></content>
+    <content><![CDATA[xDropWhile]]></content>
     <tabTrigger>xDropWhile</tabTrigger>
 </snippet>
 

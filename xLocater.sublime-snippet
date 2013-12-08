@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xLocater</description>
-    <content><![CDATA[xLocater(${1})]]></content>
+    <content><![CDATA[xLocater]]></content>
     <tabTrigger>xLocater</tabTrigger>
 </snippet>
 

@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xSelect</description>
-    <content><![CDATA[xSelect(${1})]]></content>
+    <content><![CDATA[xSelect]]></content>
     <tabTrigger>xSelect</tabTrigger>
 </snippet>
 

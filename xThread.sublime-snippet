@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xThread</description>
-    <content><![CDATA[xThread(${1})]]></content>
+    <content><![CDATA[xThread]]></content>
     <tabTrigger>xThread</tabTrigger>
 </snippet>
 

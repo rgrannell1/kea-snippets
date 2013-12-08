@@ -1,7 +1,7 @@
 
 <snippet>
     <description>Arrow-xZipWith...</description>
-    <content><![CDATA[xZipWith...(${1})]]></content>
+    <content><![CDATA[xZipWith...]]></content>
     <tabTrigger>xZipWith...</tabTrigger>
 </snippet>
 
