@@ -46,3 +46,4 @@ Ryan Grannell
 
 As with **Arrow**, **Arrow-Snippets** is released under the terms of the GNU General Public License version 3.
 
+<img src="gpl3.png" height = "180"> </img>
