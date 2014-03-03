@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xCapture</description>
     <content><![CDATA[xCapture]]></content>
+<scope>source.r</scope>
     <tabTrigger>xCapture</tabTrigger>
 </snippet>
 

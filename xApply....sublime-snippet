@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xApply...</description>
     <content><![CDATA[xApply...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xApply...</tabTrigger>
 </snippet>
 

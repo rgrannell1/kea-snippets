@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xFourthOf</description>
     <content><![CDATA[xFourthOf]]></content>
+<scope>source.r</scope>
     <tabTrigger>xFourthOf</tabTrigger>
 </snippet>
 

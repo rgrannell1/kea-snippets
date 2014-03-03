@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xTake</description>
     <content><![CDATA[xTake]]></content>
+<scope>source.r</scope>
     <tabTrigger>xTake</tabTrigger>
 </snippet>
 

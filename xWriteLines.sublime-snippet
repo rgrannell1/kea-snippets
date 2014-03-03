@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xWriteLines</description>
     <content><![CDATA[xWriteLines]]></content>
+<scope>source.r</scope>
     <tabTrigger>xWriteLines</tabTrigger>
 </snippet>
 

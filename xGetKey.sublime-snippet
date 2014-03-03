@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xGetKey</description>
     <content><![CDATA[xGetKey]]></content>
+<scope>source.r</scope>
     <tabTrigger>xGetKey</tabTrigger>
 </snippet>
 

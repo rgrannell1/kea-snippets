@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xOrderOf</description>
     <content><![CDATA[xOrderOf]]></content>
+<scope>source.r</scope>
     <tabTrigger>xOrderOf</tabTrigger>
 </snippet>
 

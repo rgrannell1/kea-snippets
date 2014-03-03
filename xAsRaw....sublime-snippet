@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xAsRaw...</description>
     <content><![CDATA[xAsRaw...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xAsRaw...</tabTrigger>
 </snippet>
 

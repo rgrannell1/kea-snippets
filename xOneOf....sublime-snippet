@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xOneOf...</description>
     <content><![CDATA[xOneOf...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xOneOf...</tabTrigger>
 </snippet>
 

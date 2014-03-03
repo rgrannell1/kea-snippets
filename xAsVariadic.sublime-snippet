@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xAsVariadic</description>
     <content><![CDATA[xAsVariadic]]></content>
+<scope>source.r</scope>
     <tabTrigger>xAsVariadic</tabTrigger>
 </snippet>
 

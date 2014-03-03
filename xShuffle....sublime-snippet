@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xShuffle...</description>
     <content><![CDATA[xShuffle...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xShuffle...</tabTrigger>
 </snippet>
 

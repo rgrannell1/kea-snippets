@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xPoll</description>
     <content><![CDATA[xPoll]]></content>
+<scope>source.r</scope>
     <tabTrigger>xPoll</tabTrigger>
 </snippet>
 

@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xIsNan</description>
     <content><![CDATA[xIsNan]]></content>
+<scope>source.r</scope>
     <tabTrigger>xIsNan</tabTrigger>
 </snippet>
 

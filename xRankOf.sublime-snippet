@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xRankOf</description>
     <content><![CDATA[xRankOf]]></content>
+<scope>source.r</scope>
     <tabTrigger>xRankOf</tabTrigger>
 </snippet>
 

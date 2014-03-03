@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xSubstring</description>
     <content><![CDATA[xSubstring]]></content>
+<scope>source.r</scope>
     <tabTrigger>xSubstring</tabTrigger>
 </snippet>
 

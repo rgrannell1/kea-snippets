@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xPluck</description>
     <content><![CDATA[xPluck]]></content>
+<scope>source.r</scope>
     <tabTrigger>xPluck</tabTrigger>
 </snippet>
 

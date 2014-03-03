@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xFoldr...</description>
     <content><![CDATA[xFoldr...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xFoldr...</tabTrigger>
 </snippet>
 

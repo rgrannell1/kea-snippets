@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xFirstOf</description>
     <content><![CDATA[xFirstOf]]></content>
+<scope>source.r</scope>
     <tabTrigger>xFirstOf</tabTrigger>
 </snippet>
 

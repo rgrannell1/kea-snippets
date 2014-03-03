@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xInter</description>
     <content><![CDATA[xInter]]></content>
+<scope>source.r</scope>
     <tabTrigger>xInter</tabTrigger>
 </snippet>
 

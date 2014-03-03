@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xIterate</description>
     <content><![CDATA[xIterate]]></content>
+<scope>source.r</scope>
     <tabTrigger>xIterate</tabTrigger>
 </snippet>
 

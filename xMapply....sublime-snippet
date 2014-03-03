@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xMapply...</description>
     <content><![CDATA[xMapply...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xMapply...</tabTrigger>
 </snippet>
 

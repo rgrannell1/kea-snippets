@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xLimit</description>
     <content><![CDATA[xLimit]]></content>
+<scope>source.r</scope>
     <tabTrigger>xLimit</tabTrigger>
 </snippet>
 

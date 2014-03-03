@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xFormalsOf</description>
     <content><![CDATA[xFormalsOf]]></content>
+<scope>source.r</scope>
     <tabTrigger>xFormalsOf</tabTrigger>
 </snippet>
 

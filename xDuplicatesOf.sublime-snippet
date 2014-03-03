@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xDuplicatesOf</description>
     <content><![CDATA[xDuplicatesOf]]></content>
+<scope>source.r</scope>
     <tabTrigger>xDuplicatesOf</tabTrigger>
 </snippet>
 

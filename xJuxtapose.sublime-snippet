@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xJuxtapose</description>
     <content><![CDATA[xJuxtapose]]></content>
+<scope>source.r</scope>
     <tabTrigger>xJuxtapose</tabTrigger>
 </snippet>
 

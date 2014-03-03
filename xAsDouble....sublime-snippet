@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xAsDouble...</description>
     <content><![CDATA[xAsDouble...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xAsDouble...</tabTrigger>
 </snippet>
 

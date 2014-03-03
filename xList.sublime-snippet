@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xList</description>
     <content><![CDATA[xList]]></content>
+<scope>source.r</scope>
     <tabTrigger>xList</tabTrigger>
 </snippet>
 

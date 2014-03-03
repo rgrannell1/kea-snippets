@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xVersion</description>
     <content><![CDATA[xVersion]]></content>
+<scope>source.r</scope>
     <tabTrigger>xVersion</tabTrigger>
 </snippet>
 

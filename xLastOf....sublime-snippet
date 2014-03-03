@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xLastOf...</description>
     <content><![CDATA[xLastOf...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xLastOf...</tabTrigger>
 </snippet>
 

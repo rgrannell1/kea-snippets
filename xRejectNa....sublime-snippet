@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xRejectNa...</description>
     <content><![CDATA[xRejectNa...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xRejectNa...</tabTrigger>
 </snippet>
 

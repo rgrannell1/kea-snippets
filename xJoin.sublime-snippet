@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xJoin</description>
     <content><![CDATA[xJoin]]></content>
+<scope>source.r</scope>
     <tabTrigger>xJoin</tabTrigger>
 </snippet>
 

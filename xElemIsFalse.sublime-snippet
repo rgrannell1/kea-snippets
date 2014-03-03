@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xElemIsFalse</description>
     <content><![CDATA[xElemIsFalse]]></content>
+<scope>source.r</scope>
     <tabTrigger>xElemIsFalse</tabTrigger>
 </snippet>
 

@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xTakeWhile...</description>
     <content><![CDATA[xTakeWhile...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xTakeWhile...</tabTrigger>
 </snippet>
 

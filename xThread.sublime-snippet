@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xThread</description>
     <content><![CDATA[xThread]]></content>
+<scope>source.r</scope>
     <tabTrigger>xThread</tabTrigger>
 </snippet>
 

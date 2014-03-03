@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xScan...</description>
     <content><![CDATA[xScan...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xScan...</tabTrigger>
 </snippet>
 

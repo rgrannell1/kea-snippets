@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xIsMember...</description>
     <content><![CDATA[xIsMember...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xIsMember...</tabTrigger>
 </snippet>
 

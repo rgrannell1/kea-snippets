@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xFromWords...</description>
     <content><![CDATA[xFromWords...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xFromWords...</tabTrigger>
 </snippet>
 

@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xRecycle...</description>
     <content><![CDATA[xRecycle...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xRecycle...</tabTrigger>
 </snippet>
 

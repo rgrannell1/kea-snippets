@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xIrrelevance</description>
     <content><![CDATA[xIrrelevance]]></content>
+<scope>source.r</scope>
     <tabTrigger>xIrrelevance</tabTrigger>
 </snippet>
 

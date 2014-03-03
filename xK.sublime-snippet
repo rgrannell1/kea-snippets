@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xK</description>
     <content><![CDATA[xK]]></content>
+<scope>source.r</scope>
     <tabTrigger>xK</tabTrigger>
 </snippet>
 

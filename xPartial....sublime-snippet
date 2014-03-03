@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xPartial...</description>
     <content><![CDATA[xPartial...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xPartial...</tabTrigger>
 </snippet>
 

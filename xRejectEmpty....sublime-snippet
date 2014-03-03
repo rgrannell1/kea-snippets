@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xRejectEmpty...</description>
     <content><![CDATA[xRejectEmpty...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xRejectEmpty...</tabTrigger>
 </snippet>
 

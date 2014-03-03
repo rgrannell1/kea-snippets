@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xForall</description>
     <content><![CDATA[xForall]]></content>
+<scope>source.r</scope>
     <tabTrigger>xForall</tabTrigger>
 </snippet>
 

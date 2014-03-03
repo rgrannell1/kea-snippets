@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xSelect...</description>
     <content><![CDATA[xSelect...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xSelect...</tabTrigger>
 </snippet>
 

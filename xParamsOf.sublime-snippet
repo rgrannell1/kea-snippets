@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xParamsOf</description>
     <content><![CDATA[xParamsOf]]></content>
+<scope>source.r</scope>
     <tabTrigger>xParamsOf</tabTrigger>
 </snippet>
 

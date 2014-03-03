@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xToLines</description>
     <content><![CDATA[xToLines]]></content>
+<scope>source.r</scope>
     <tabTrigger>xToLines</tabTrigger>
 </snippet>
 

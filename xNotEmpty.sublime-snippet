@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xNotEmpty</description>
     <content><![CDATA[xNotEmpty]]></content>
+<scope>source.r</scope>
     <tabTrigger>xNotEmpty</tabTrigger>
 </snippet>
 

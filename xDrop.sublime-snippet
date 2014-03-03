@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xDrop</description>
     <content><![CDATA[xDrop]]></content>
+<scope>source.r</scope>
     <tabTrigger>xDrop</tabTrigger>
 </snippet>
 

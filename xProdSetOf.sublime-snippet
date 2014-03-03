@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xProdSetOf</description>
     <content><![CDATA[xProdSetOf]]></content>
+<scope>source.r</scope>
     <tabTrigger>xProdSetOf</tabTrigger>
 </snippet>
 

@@ -14,6 +14,7 @@ function makeMethodSnippet () {
 	<snippet>
 	    <description>Arrow-$method_name</description>
 	    <content><![CDATA[$method_name]]></content>
+		<scope>source.r</scope>
 	    <tabTrigger>$method_name</tabTrigger>
 	</snippet>
 

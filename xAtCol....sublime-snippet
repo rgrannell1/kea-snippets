@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xAtCol...</description>
     <content><![CDATA[xAtCol...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xAtCol...</tabTrigger>
 </snippet>
 

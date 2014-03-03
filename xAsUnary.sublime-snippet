@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xAsUnary</description>
     <content><![CDATA[xAsUnary]]></content>
+<scope>source.r</scope>
     <tabTrigger>xAsUnary</tabTrigger>
 </snippet>
 

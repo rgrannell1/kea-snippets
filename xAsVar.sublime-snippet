@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xAsVar</description>
     <content><![CDATA[xAsVar]]></content>
+<scope>source.r</scope>
     <tabTrigger>xAsVar</tabTrigger>
 </snippet>
 

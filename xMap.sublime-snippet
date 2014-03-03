@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xMap</description>
     <content><![CDATA[xMap]]></content>
+<scope>source.r</scope>
     <tabTrigger>xMap</tabTrigger>
 </snippet>
 

@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xChunk</description>
     <content><![CDATA[xChunk]]></content>
+<scope>source.r</scope>
     <tabTrigger>xChunk</tabTrigger>
 </snippet>
 

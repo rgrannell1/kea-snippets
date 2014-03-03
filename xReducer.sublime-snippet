@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xReducer</description>
     <content><![CDATA[xReducer]]></content>
+<scope>source.r</scope>
     <tabTrigger>xReducer</tabTrigger>
 </snippet>
 

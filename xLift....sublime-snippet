@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xLift...</description>
     <content><![CDATA[xLift...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xLift...</tabTrigger>
 </snippet>
 

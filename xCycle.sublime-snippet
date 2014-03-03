@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xCycle</description>
     <content><![CDATA[xCycle]]></content>
+<scope>source.r</scope>
     <tabTrigger>xCycle</tabTrigger>
 </snippet>
 

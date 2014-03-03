@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xElemNotNull</description>
     <content><![CDATA[xElemNotNull]]></content>
+<scope>source.r</scope>
     <tabTrigger>xElemNotNull</tabTrigger>
 </snippet>
 

@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xNotTrue</description>
     <content><![CDATA[xNotTrue]]></content>
+<scope>source.r</scope>
     <tabTrigger>xNotTrue</tabTrigger>
 </snippet>
 

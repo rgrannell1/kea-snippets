@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xDo</description>
     <content><![CDATA[xDo]]></content>
+<scope>source.r</scope>
     <tabTrigger>xDo</tabTrigger>
 </snippet>
 

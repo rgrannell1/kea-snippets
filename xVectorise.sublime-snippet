@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xVectorise</description>
     <content><![CDATA[xVectorise]]></content>
+<scope>source.r</scope>
     <tabTrigger>xVectorise</tabTrigger>
 </snippet>
 

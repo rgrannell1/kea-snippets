@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xFromChars</description>
     <content><![CDATA[xFromChars]]></content>
+<scope>source.r</scope>
     <tabTrigger>xFromChars</tabTrigger>
 </snippet>
 

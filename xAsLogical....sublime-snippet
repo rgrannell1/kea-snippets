@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xAsLogical...</description>
     <content><![CDATA[xAsLogical...]]></content>
+<scope>source.r</scope>
     <tabTrigger>xAsLogical...</tabTrigger>
 </snippet>
 

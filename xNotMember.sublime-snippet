@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xNotMember</description>
     <content><![CDATA[xNotMember]]></content>
+<scope>source.r</scope>
     <tabTrigger>xNotMember</tabTrigger>
 </snippet>
 

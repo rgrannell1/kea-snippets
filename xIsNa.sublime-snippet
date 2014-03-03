@@ -2,6 +2,7 @@
 <snippet>
     <description>Arrow-xIsNa</description>
     <content><![CDATA[xIsNa]]></content>
+<scope>source.r</scope>
     <tabTrigger>xIsNa</tabTrigger>
 </snippet>
 
