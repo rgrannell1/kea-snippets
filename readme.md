@@ -8,9 +8,9 @@ package that adds text snippets for every function in the [**Arrow**](https://gi
 functional programming library for the R language. They can be handy for writing long
 method chains quickly.
 
-## 1 Installing
-
 <img src = "sample.png"></img>
+
+## 1 Installing
 
 Installing simply involves cloning this repository to your sublime package directory. Depending
 on your operating system, you will probably be able to use one of the following:
@@ -35,6 +35,8 @@ git clone https://github.com/rgrannell1/arrow-snippets.git
 cd "%AppData%\Sublime Text 3\Packages\User"
 git clone https://github.com/rgrannell1/arrow-snippets.git
 ```
+If for some reason you don't have git installed, you can manually grab the [zip](https://github.com/rgrannell1/arrow-snippets/archive/master.zip) github, and
+extract in into the package location for your operating system.
 
 ## 2 Authors
 
