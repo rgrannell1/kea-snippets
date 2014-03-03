@@ -10,6 +10,25 @@ functions to Sublime Text, speeding up development significantly (at least for m
 
 <img src = "sample.png"></img>
 
+I'm assuming you have git installed.
+
+### Linux
+
+```bash
+cd ~/.config/sublime-text-3/Packages
+git clone https://github.com/rgrannell1/arrow-snippets.git
+```
+
+### Windows
+
+```bash
+
+
+```
+
+### Mac
+
+
 ## 2 Authors
 
 Ryan Grannell
