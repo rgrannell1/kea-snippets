@@ -4,7 +4,9 @@ Arrow-Snippets (v0.1)
 **Arrow-Snippets** is a Sublime Text 2/3 package containing snippets for
 every function in the [**Arrow**](https://github.com/rgrannell1/arrow) functional programming
 library for R. This package adds tab-autocompletion and method name suggestions for all **Arrow**
-functions to Sublime Text, speeding up development significantly (at least for me).
+functions, speeding up development significantly (at least for me).
+
+These snippets only appear for R files.
 
 ## 1 Installing
 
@@ -33,7 +35,6 @@ git clone https://github.com/rgrannell1/arrow-snippets.git
 cd "%AppData%\Sublime Text 3\Packages\User"
 git clone https://github.com/rgrannell1/arrow-snippets.git
 ```
-
 
 ## 2 Authors
 
