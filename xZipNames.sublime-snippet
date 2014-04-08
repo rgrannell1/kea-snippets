@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xZipNames</description>
-    <content><![CDATA[xZipNames]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xZipNames</tabTrigger>
-</snippet>
-

@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xAddKeys</description>
+    <content><![CDATA[xAddKeys]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xAddKeys</tabTrigger>
+</snippet>
+

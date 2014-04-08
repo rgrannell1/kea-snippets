@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xAsNamed</description>
-    <content><![CDATA[xAsNamed]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xAsNamed</tabTrigger>
-</snippet>
-

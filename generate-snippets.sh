@@ -1,13 +1,17 @@
 #!/bin/bash
 
 method_pattern='x[A-Z]\{1\}[^)]*'
+
 arrow_namespace_path=~/Code/arrow.R/NAMESPACE
+arrow_snippets_path=~/Code/arrow-snippets
+
+find $arrow_snippets_path -name '*.sublime-snippet' -delete
 
 function makeMethodSnippet () {
 	# create a snippet for a method.
 
 	local method_name=$1
-	local path=~/Code/arrow-snippets/$method_name.sublime-snippet
+	local path=$arrow_snippets_path/$method_name.sublime-snippet
 
 	cat <<-EOL > $path
 

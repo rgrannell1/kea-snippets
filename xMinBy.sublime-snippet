@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xMinBy</description>
+    <content><![CDATA[xMinBy]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xMinBy</tabTrigger>
+</snippet>
+

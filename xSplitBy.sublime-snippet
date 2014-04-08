@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xSplitBy</description>
-    <content><![CDATA[xSplitBy]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xSplitBy</tabTrigger>
-</snippet>
-
