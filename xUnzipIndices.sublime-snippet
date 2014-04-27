@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xUnzipIndices</description>
+    <content><![CDATA[xUnzipIndices]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xUnzipIndices</tabTrigger>
+</snippet>
+

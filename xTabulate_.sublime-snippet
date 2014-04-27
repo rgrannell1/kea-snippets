@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xTabulate_</description>
+    <content><![CDATA[xTabulate_]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xTabulate_</tabTrigger>
+</snippet>
+

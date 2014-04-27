@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xUnzipKeys...</description>
-    <content><![CDATA[xUnzipKeys...]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xUnzipKeys...</tabTrigger>
-</snippet>
-

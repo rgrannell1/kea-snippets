@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xIsSubset...</description>
-    <content><![CDATA[xIsSubset...]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xIsSubset...</tabTrigger>
-</snippet>
-

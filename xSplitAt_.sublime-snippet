@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xSplitAt_</description>
+    <content><![CDATA[xSplitAt_]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xSplitAt_</tabTrigger>
+</snippet>
+

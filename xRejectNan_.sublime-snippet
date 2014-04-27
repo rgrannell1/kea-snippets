@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xRejectNan_</description>
+    <content><![CDATA[xRejectNan_]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xRejectNan_</tabTrigger>
+</snippet>
+

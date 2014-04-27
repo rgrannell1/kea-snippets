@@ -1,7 +1,5 @@
 Arrow-Snippets (v0.1)
-===========================================
-
-
+===========================================s
 
 **Arrow-Snippets** serves a very specific purpose. It is a Sublime Text 2/3
 package that adds text snippets for every function in the [**Arrow**](https://github.com/rgrannell1/arrow)
@@ -21,6 +19,13 @@ on your operating system, you will probably be able to use one of the following:
 cd ~/.config/sublime-text-3/Packages
 git clone https://github.com/rgrannell1/arrow-snippets.git
 ```
+To upgrade, run
+
+```bash
+cd ~/.config/sublime-text-3/Packages
+rm -R arrow-snippets
+```
+before upgrading.
 
 ### OS X
 
@@ -28,6 +33,7 @@ git clone https://github.com/rgrannell1/arrow-snippets.git
 cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
 git clone https://github.com/rgrannell1/arrow-snippets.git
 ```
+
 
 ### Windows
 

@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xMapply_</description>
+    <content><![CDATA[xMapply_]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xMapply_</tabTrigger>
+</snippet>
+

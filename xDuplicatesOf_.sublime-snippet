@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xDuplicatesOf_</description>
+    <content><![CDATA[xDuplicatesOf_]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xDuplicatesOf_</tabTrigger>
+</snippet>
+

@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xElemIsTrue_</description>
+    <content><![CDATA[xElemIsTrue_]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xElemIsTrue_</tabTrigger>
+</snippet>
+

@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xPermute</description>
-    <content><![CDATA[xPermute]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xPermute</tabTrigger>
-</snippet>
-

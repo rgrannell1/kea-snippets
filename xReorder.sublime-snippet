@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xReorder</description>
+    <content><![CDATA[xReorder]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xReorder</tabTrigger>
+</snippet>
+

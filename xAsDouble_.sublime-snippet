@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xAsDouble_</description>
+    <content><![CDATA[xAsDouble_]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xAsDouble_</tabTrigger>
+</snippet>
+

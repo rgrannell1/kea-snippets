@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xReduce...</description>
-    <content><![CDATA[xReduce...]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xReduce...</tabTrigger>
-</snippet>
-

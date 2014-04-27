@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xScan_</description>
+    <content><![CDATA[xScan_]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xScan_</tabTrigger>
+</snippet>
+

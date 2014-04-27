@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xGroupBy_</description>
+    <content><![CDATA[xGroupBy_]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xGroupBy_</tabTrigger>
+</snippet>
+

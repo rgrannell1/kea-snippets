@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xSpread</description>
+    <content><![CDATA[xSpread]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xSpread</tabTrigger>
+</snippet>
+

@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xFix</description>
+    <content><![CDATA[xFix]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xFix</tabTrigger>
+</snippet>
+
