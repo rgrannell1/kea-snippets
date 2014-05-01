@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xMapIndexed_</description>
-    <content><![CDATA[xMapIndexed_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xMapIndexed_</tabTrigger>
-</snippet>
-
