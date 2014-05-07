@@ -23,9 +23,10 @@ To upgrade, run
 
 ```bash
 cd ~/.config/sublime-text-3/Packages
-rm -R arrow-snippets
+rm -rf arrow-snippets
+
+git clone https://github.com/rgrannell1/arrow-snippets.git
 ```
-before upgrading.
 
 ### OS X
 
