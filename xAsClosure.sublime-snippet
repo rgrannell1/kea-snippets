@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xAsClosure</description>
-    <content><![CDATA[xAsClosure]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xAsClosure</tabTrigger>
-</snippet>
-

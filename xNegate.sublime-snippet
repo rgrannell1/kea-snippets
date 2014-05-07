@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xNegate</description>
+    <content><![CDATA[xNegate]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xNegate</tabTrigger>
+</snippet>
+
