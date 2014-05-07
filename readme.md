@@ -1,5 +1,5 @@
-Arrow-Snippets (v0.1)
-===========================================s
+Arrow-Snippets
+===========================================
 
 **Arrow-Snippets** serves a very specific purpose. It is a Sublime Text 2/3
 package that adds text snippets for every function in the [**Arrow**](https://github.com/rgrannell1/arrow)
