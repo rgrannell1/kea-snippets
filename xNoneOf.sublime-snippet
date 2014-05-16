@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xNoneOf</description>
+    <content><![CDATA[xNoneOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xNoneOf</tabTrigger>
+</snippet>
+

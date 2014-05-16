@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xElemNot</description>
+    <content><![CDATA[xElemNot]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xElemNot</tabTrigger>
+</snippet>
+

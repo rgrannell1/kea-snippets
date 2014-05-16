@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xElemNotNull_</description>
-    <content><![CDATA[xElemNotNull_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xElemNotNull_</tabTrigger>
-</snippet>
-

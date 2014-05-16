@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xElemIsNa</description>
-    <content><![CDATA[xElemIsNa]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xElemIsNa</tabTrigger>
-</snippet>
-

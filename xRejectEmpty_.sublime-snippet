@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xRejectEmpty_</description>
-    <content><![CDATA[xRejectEmpty_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xRejectEmpty_</tabTrigger>
-</snippet>
-

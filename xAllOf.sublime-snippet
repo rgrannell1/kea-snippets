@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Arrow-xAllOf</description>
+    <content><![CDATA[xAllOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xAllOf</tabTrigger>
+</snippet>
+

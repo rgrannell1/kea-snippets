@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xElemNotNan</description>
-    <content><![CDATA[xElemNotNan]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xElemNotNan</tabTrigger>
-</snippet>
-
