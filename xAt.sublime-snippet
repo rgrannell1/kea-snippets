@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xAt</description>
+    <description>Kiwi-xAt</description>
     <content><![CDATA[xAt]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAt</tabTrigger>

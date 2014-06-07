@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xFlatMap</description>
+    <description>Kiwi-xFlatMap</description>
     <content><![CDATA[xFlatMap]]></content>
 <scope>source.r</scope>
     <tabTrigger>xFlatMap</tabTrigger>

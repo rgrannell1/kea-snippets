@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xPowerSetOf</description>
+    <description>Kiwi-xPowerSetOf</description>
     <content><![CDATA[xPowerSetOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xPowerSetOf</tabTrigger>

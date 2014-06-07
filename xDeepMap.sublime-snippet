@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xDeepMap</description>
+    <description>Kiwi-xDeepMap</description>
     <content><![CDATA[xDeepMap]]></content>
 <scope>source.r</scope>
     <tabTrigger>xDeepMap</tabTrigger>

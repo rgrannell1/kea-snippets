@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xIterate</description>
+    <description>Kiwi-xIterate</description>
     <content><![CDATA[xIterate]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIterate</tabTrigger>

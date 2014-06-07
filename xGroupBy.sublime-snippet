@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xGroupBy</description>
+    <description>Kiwi-xGroupBy</description>
     <content><![CDATA[xGroupBy]]></content>
 <scope>source.r</scope>
     <tabTrigger>xGroupBy</tabTrigger>

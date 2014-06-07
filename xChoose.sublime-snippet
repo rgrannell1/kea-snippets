@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xChoose</description>
+    <description>Kiwi-xChoose</description>
     <content><![CDATA[xChoose]]></content>
 <scope>source.r</scope>
     <tabTrigger>xChoose</tabTrigger>

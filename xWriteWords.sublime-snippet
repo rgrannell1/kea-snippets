@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xWriteWords</description>
+    <description>Kiwi-xWriteWords</description>
     <content><![CDATA[xWriteWords]]></content>
 <scope>source.r</scope>
     <tabTrigger>xWriteWords</tabTrigger>

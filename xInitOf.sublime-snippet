@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xInitOf</description>
+    <description>Kiwi-xInitOf</description>
     <content><![CDATA[xInitOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xInitOf</tabTrigger>

@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xToChars</description>
+    <description>Kiwi-xToChars</description>
     <content><![CDATA[xToChars]]></content>
 <scope>source.r</scope>
     <tabTrigger>xToChars</tabTrigger>

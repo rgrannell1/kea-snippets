@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xAsDataFrame</description>
+    <description>Kiwi-xAsDataFrame</description>
     <content><![CDATA[xAsDataFrame]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAsDataFrame</tabTrigger>

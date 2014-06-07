@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xNotSubset</description>
+    <description>Kiwi-xNotSubset</description>
     <content><![CDATA[xNotSubset]]></content>
 <scope>source.r</scope>
     <tabTrigger>xNotSubset</tabTrigger>

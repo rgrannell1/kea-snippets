@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xUnzipIndices_</description>
+    <description>Kiwi-xUnzipIndices_</description>
     <content><![CDATA[xUnzipIndices_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xUnzipIndices_</tabTrigger>

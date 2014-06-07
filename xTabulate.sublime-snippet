@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xTabulate</description>
+    <description>Kiwi-xTabulate</description>
     <content><![CDATA[xTabulate]]></content>
 <scope>source.r</scope>
     <tabTrigger>xTabulate</tabTrigger>

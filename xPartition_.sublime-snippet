@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xPartition_</description>
+    <description>Kiwi-xPartition_</description>
     <content><![CDATA[xPartition_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xPartition_</tabTrigger>

@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xNotMatch</description>
+    <description>Kiwi-xNotMatch</description>
     <content><![CDATA[xNotMatch]]></content>
 <scope>source.r</scope>
     <tabTrigger>xNotMatch</tabTrigger>

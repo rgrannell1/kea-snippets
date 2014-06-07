@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xTruth</description>
+    <description>Kiwi-xTruth</description>
     <content><![CDATA[xTruth]]></content>
 <scope>source.r</scope>
     <tabTrigger>xTruth</tabTrigger>

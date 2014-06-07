@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xIsVariadic</description>
+    <description>Kiwi-xIsVariadic</description>
     <content><![CDATA[xIsVariadic]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsVariadic</tabTrigger>

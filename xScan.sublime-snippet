@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xScan</description>
+    <description>Kiwi-xScan</description>
     <content><![CDATA[xScan]]></content>
 <scope>source.r</scope>
     <tabTrigger>xScan</tabTrigger>

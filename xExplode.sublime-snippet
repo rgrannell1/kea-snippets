@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xExplode</description>
+    <description>Kiwi-xExplode</description>
     <content><![CDATA[xExplode]]></content>
 <scope>source.r</scope>
     <tabTrigger>xExplode</tabTrigger>

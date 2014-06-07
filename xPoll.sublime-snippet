@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xPoll</description>
+    <description>Kiwi-xPoll</description>
     <content><![CDATA[xPoll]]></content>
 <scope>source.r</scope>
     <tabTrigger>xPoll</tabTrigger>

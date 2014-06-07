@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xWriteLines</description>
+    <description>Kiwi-xWriteLines</description>
     <content><![CDATA[xWriteLines]]></content>
 <scope>source.r</scope>
     <tabTrigger>xWriteLines</tabTrigger>

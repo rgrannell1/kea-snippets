@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xAddKeys_</description>
+    <description>Kiwi-xAddKeys_</description>
     <content><![CDATA[xAddKeys_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAddKeys_</tabTrigger>

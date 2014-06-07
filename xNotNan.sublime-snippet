@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xNotNan</description>
+    <description>Kiwi-xNotNan</description>
     <content><![CDATA[xNotNan]]></content>
 <scope>source.r</scope>
     <tabTrigger>xNotNan</tabTrigger>

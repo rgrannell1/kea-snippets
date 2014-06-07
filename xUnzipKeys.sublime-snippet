@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xUnzipKeys</description>
+    <description>Kiwi-xUnzipKeys</description>
     <content><![CDATA[xUnzipKeys]]></content>
 <scope>source.r</scope>
     <tabTrigger>xUnzipKeys</tabTrigger>

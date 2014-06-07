@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xPluck</description>
+    <description>Kiwi-xPluck</description>
     <content><![CDATA[xPluck]]></content>
 <scope>source.r</scope>
     <tabTrigger>xPluck</tabTrigger>

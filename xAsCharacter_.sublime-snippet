@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xAsCharacter_</description>
+    <description>Kiwi-xAsCharacter_</description>
     <content><![CDATA[xAsCharacter_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAsCharacter_</tabTrigger>

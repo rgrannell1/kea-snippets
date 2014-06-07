@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xCapture</description>
+    <description>Kiwi-xCapture</description>
     <content><![CDATA[xCapture]]></content>
 <scope>source.r</scope>
     <tabTrigger>xCapture</tabTrigger>

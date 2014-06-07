@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xLimit</description>
+    <description>Kiwi-xLimit</description>
     <content><![CDATA[xLimit]]></content>
 <scope>source.r</scope>
     <tabTrigger>xLimit</tabTrigger>

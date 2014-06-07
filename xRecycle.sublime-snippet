@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xRecycle</description>
+    <description>Kiwi-xRecycle</description>
     <content><![CDATA[xRecycle]]></content>
 <scope>source.r</scope>
     <tabTrigger>xRecycle</tabTrigger>

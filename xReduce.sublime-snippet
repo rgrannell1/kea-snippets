@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xReduce</description>
+    <description>Kiwi-xReduce</description>
     <content><![CDATA[xReduce]]></content>
 <scope>source.r</scope>
     <tabTrigger>xReduce</tabTrigger>

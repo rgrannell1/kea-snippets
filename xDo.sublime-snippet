@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xDo</description>
+    <description>Kiwi-xDo</description>
     <content><![CDATA[xDo]]></content>
 <scope>source.r</scope>
     <tabTrigger>xDo</tabTrigger>

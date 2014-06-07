@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xFromLines_</description>
+    <description>Kiwi-xFromLines_</description>
     <content><![CDATA[xFromLines_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xFromLines_</tabTrigger>

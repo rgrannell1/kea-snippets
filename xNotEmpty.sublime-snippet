@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xNotEmpty</description>
+    <description>Kiwi-xNotEmpty</description>
     <content><![CDATA[xNotEmpty]]></content>
 <scope>source.r</scope>
     <tabTrigger>xNotEmpty</tabTrigger>

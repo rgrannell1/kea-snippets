@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xTakeWhile</description>
+    <description>Kiwi-xTakeWhile</description>
     <content><![CDATA[xTakeWhile]]></content>
 <scope>source.r</scope>
     <tabTrigger>xTakeWhile</tabTrigger>

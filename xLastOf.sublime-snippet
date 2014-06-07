@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xLastOf</description>
+    <description>Kiwi-xLastOf</description>
     <content><![CDATA[xLastOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xLastOf</tabTrigger>

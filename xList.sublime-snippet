@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xList</description>
+    <description>Kiwi-xList</description>
     <content><![CDATA[xList]]></content>
 <scope>source.r</scope>
     <tabTrigger>xList</tabTrigger>

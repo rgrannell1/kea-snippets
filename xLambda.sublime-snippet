@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xLambda</description>
+    <description>Kiwi-xLambda</description>
     <content><![CDATA[xLambda]]></content>
 <scope>source.r</scope>
     <tabTrigger>xLambda</tabTrigger>

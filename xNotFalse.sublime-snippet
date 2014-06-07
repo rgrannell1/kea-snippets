@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xNotFalse</description>
+    <description>Kiwi-xNotFalse</description>
     <content><![CDATA[xNotFalse]]></content>
 <scope>source.r</scope>
     <tabTrigger>xNotFalse</tabTrigger>

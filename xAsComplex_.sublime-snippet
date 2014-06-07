@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xAsComplex_</description>
+    <description>Kiwi-xAsComplex_</description>
     <content><![CDATA[xAsComplex_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAsComplex_</tabTrigger>

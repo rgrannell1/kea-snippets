@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xNoneOf_</description>
+    <description>Kiwi-xNoneOf_</description>
     <content><![CDATA[xNoneOf_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xNoneOf_</tabTrigger>

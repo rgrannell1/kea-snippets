@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xFold_</description>
+    <description>Kiwi-xFold_</description>
     <content><![CDATA[xFold_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xFold_</tabTrigger>

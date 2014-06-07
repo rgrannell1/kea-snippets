@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xIsSubset</description>
+    <description>Kiwi-xIsSubset</description>
     <content><![CDATA[xIsSubset]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsSubset</tabTrigger>

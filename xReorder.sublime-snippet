@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xReorder</description>
+    <description>Kiwi-xReorder</description>
     <content><![CDATA[xReorder]]></content>
 <scope>source.r</scope>
     <tabTrigger>xReorder</tabTrigger>

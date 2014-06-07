@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xParamsOf</description>
+    <description>Kiwi-xParamsOf</description>
     <content><![CDATA[xParamsOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xParamsOf</tabTrigger>

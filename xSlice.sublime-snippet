@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xSlice</description>
+    <description>Kiwi-xSlice</description>
     <content><![CDATA[xSlice]]></content>
 <scope>source.r</scope>
     <tabTrigger>xSlice</tabTrigger>

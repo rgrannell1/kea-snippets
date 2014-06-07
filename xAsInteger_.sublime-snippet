@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xAsInteger_</description>
+    <description>Kiwi-xAsInteger_</description>
     <content><![CDATA[xAsInteger_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAsInteger_</tabTrigger>

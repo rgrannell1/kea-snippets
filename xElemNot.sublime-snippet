@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xElemNot</description>
+    <description>Kiwi-xElemNot</description>
     <content><![CDATA[xElemNot]]></content>
 <scope>source.r</scope>
     <tabTrigger>xElemNot</tabTrigger>

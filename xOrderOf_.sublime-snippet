@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xOrderOf_</description>
+    <description>Kiwi-xOrderOf_</description>
     <content><![CDATA[xOrderOf_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xOrderOf_</tabTrigger>

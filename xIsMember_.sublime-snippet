@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xIsMember_</description>
+    <description>Kiwi-xIsMember_</description>
     <content><![CDATA[xIsMember_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsMember_</tabTrigger>

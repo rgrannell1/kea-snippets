@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xIdentity</description>
+    <description>Kiwi-xIdentity</description>
     <content><![CDATA[xIdentity]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIdentity</tabTrigger>

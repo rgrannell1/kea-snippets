@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xIsTrue</description>
+    <description>Kiwi-xIsTrue</description>
     <content><![CDATA[xIsTrue]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsTrue</tabTrigger>

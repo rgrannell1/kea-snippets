@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xSplitWith_</description>
+    <description>Kiwi-xSplitWith_</description>
     <content><![CDATA[xSplitWith_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xSplitWith_</tabTrigger>

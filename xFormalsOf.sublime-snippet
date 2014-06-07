@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xFormalsOf</description>
+    <description>Kiwi-xFormalsOf</description>
     <content><![CDATA[xFormalsOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xFormalsOf</tabTrigger>

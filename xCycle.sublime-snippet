@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xCycle</description>
+    <description>Kiwi-xCycle</description>
     <content><![CDATA[xCycle]]></content>
 <scope>source.r</scope>
     <tabTrigger>xCycle</tabTrigger>

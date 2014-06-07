@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xProdSetOf_</description>
+    <description>Kiwi-xProdSetOf_</description>
     <content><![CDATA[xProdSetOf_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xProdSetOf_</tabTrigger>

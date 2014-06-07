@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xIsVal</description>
+    <description>Kiwi-xIsVal</description>
     <content><![CDATA[xIsVal]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsVal</tabTrigger>

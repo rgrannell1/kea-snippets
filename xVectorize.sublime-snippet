@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Arrow-xVectorize</description>
-    <content><![CDATA[xVectorize]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xVectorize</tabTrigger>
-</snippet>
-

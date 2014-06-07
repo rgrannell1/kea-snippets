@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xMaxBy</description>
+    <description>Kiwi-xMaxBy</description>
     <content><![CDATA[xMaxBy]]></content>
 <scope>source.r</scope>
     <tabTrigger>xMaxBy</tabTrigger>

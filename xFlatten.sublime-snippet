@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xFlatten</description>
+    <description>Kiwi-xFlatten</description>
     <content><![CDATA[xFlatten]]></content>
 <scope>source.r</scope>
     <tabTrigger>xFlatten</tabTrigger>

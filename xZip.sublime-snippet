@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xZip</description>
+    <description>Kiwi-xZip</description>
     <content><![CDATA[xZip]]></content>
 <scope>source.r</scope>
     <tabTrigger>xZip</tabTrigger>

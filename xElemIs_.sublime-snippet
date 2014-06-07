@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xElemIs_</description>
+    <description>Kiwi-xElemIs_</description>
     <content><![CDATA[xElemIs_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xElemIs_</tabTrigger>

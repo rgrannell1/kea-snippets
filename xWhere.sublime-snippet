@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xWhere</description>
+    <description>Kiwi-xWhere</description>
     <content><![CDATA[xWhere]]></content>
 <scope>source.r</scope>
     <tabTrigger>xWhere</tabTrigger>

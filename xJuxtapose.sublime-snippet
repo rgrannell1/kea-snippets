@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xJuxtapose</description>
+    <description>Kiwi-xJuxtapose</description>
     <content><![CDATA[xJuxtapose]]></content>
 <scope>source.r</scope>
     <tabTrigger>xJuxtapose</tabTrigger>

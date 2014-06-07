@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xReverse</description>
+    <description>Kiwi-xReverse</description>
     <content><![CDATA[xReverse]]></content>
 <scope>source.r</scope>
     <tabTrigger>xReverse</tabTrigger>

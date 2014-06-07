@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xImplode_</description>
+    <description>Kiwi-xImplode_</description>
     <content><![CDATA[xImplode_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xImplode_</tabTrigger>

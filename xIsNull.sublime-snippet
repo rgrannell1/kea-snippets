@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xIsNull</description>
+    <description>Kiwi-xIsNull</description>
     <content><![CDATA[xIsNull]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsNull</tabTrigger>

@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xLocate</description>
+    <description>Kiwi-xLocate</description>
     <content><![CDATA[xLocate]]></content>
 <scope>source.r</scope>
     <tabTrigger>xLocate</tabTrigger>

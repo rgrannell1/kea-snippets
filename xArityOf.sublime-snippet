@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xArityOf</description>
+    <description>Kiwi-xArityOf</description>
     <content><![CDATA[xArityOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xArityOf</tabTrigger>

@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xReadWords</description>
+    <description>Kiwi-xReadWords</description>
     <content><![CDATA[xReadWords]]></content>
 <scope>source.r</scope>
     <tabTrigger>xReadWords</tabTrigger>

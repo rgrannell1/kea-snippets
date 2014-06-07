@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xMap</description>
+    <description>Kiwi-xMap</description>
     <content><![CDATA[xMap]]></content>
 <scope>source.r</scope>
     <tabTrigger>xMap</tabTrigger>

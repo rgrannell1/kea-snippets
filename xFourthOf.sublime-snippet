@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xFourthOf</description>
+    <description>Kiwi-xFourthOf</description>
     <content><![CDATA[xFourthOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xFourthOf</tabTrigger>

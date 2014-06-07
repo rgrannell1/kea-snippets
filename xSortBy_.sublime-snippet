@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xSortBy_</description>
+    <description>Kiwi-xSortBy_</description>
     <content><![CDATA[xSortBy_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xSortBy_</tabTrigger>

@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xAsRaw</description>
+    <description>Kiwi-xAsRaw</description>
     <content><![CDATA[xAsRaw]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAsRaw</tabTrigger>

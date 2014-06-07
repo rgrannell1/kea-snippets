@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xAsDouble</description>
+    <description>Kiwi-xAsDouble</description>
     <content><![CDATA[xAsDouble]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAsDouble</tabTrigger>

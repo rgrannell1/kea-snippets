@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xUnspread</description>
+    <description>Kiwi-xUnspread</description>
     <content><![CDATA[xUnspread]]></content>
 <scope>source.r</scope>
     <tabTrigger>xUnspread</tabTrigger>

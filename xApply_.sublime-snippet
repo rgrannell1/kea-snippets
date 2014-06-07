@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xApply_</description>
+    <description>Kiwi-xApply_</description>
     <content><![CDATA[xApply_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xApply_</tabTrigger>

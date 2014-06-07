@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Arrow-xMapply</description>
+    <description>Kiwi-xMapply</description>
     <content><![CDATA[xMapply]]></content>
 <scope>source.r</scope>
     <tabTrigger>xMapply</tabTrigger>
