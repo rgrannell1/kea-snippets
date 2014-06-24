@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kiwi-xSplitAt</description>
-    <content><![CDATA[xSplitAt]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xSplitAt</tabTrigger>
-</snippet>
-

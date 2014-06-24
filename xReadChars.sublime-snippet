@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kiwi-xReadChars</description>
-    <content><![CDATA[xReadChars]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xReadChars</tabTrigger>
-</snippet>
-

@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kiwi-xLastAs</description>
+    <content><![CDATA[xLastAs]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xLastAs</tabTrigger>
+</snippet>
+

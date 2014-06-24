@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kiwi-xPrepend</description>
+    <content><![CDATA[xPrepend]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xPrepend</tabTrigger>
+</snippet>
+

@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kiwi-xAppend</description>
+    <content><![CDATA[xAppend]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xAppend</tabTrigger>
+</snippet>
+
