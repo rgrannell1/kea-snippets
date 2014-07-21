@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kiwi-xNotIn</description>
+    <content><![CDATA[xNotIn]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xNotIn</tabTrigger>
+</snippet>
+

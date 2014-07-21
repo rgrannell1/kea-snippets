@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kiwi-xIsIn</description>
+    <content><![CDATA[xIsIn]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xIsIn</tabTrigger>
+</snippet>
+

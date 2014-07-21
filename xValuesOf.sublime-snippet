@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kiwi-xValuesOf</description>
+    <content><![CDATA[xValuesOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xValuesOf</tabTrigger>
+</snippet>
+

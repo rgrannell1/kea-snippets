@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kiwi-xRank</description>
+    <content><![CDATA[xRank]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xRank</tabTrigger>
+</snippet>
+
