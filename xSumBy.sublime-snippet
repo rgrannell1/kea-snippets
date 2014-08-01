@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kiwi-xSumBy</description>
+    <content><![CDATA[xSumBy]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xSumBy</tabTrigger>
+</snippet>
+
