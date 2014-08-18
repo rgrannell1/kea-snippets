@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kiwi-xIsPrefixOf_</description>
+    <content><![CDATA[xIsPrefixOf_]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xIsPrefixOf_</tabTrigger>
+</snippet>
+

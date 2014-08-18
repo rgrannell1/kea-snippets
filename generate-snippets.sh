@@ -2,16 +2,16 @@
 
 method_pattern='x[A-Z]\{1\}[^)]*'
 
-kiwi_namespace_path=~/Code/kiwi.R/NAMESPACE
-kiwi_snippets_path=~/Code/kiwi-snippets
+kea_namespace_path=~/Code/kea.R/NAMESPACE
+kea_snippets_path=~/Code/kea-snippets
 
-find $kiwi_snippets_path -name '*.sublime-snippet' -delete
+find $kea_snippets_path -name '*.sublime-snippet' -delete
 
 function makeMethodSnippet () {
 	# create a snippet for a method.
 
 	local method_name=$1
-	local path=$kiwi_snippets_path/$method_name.sublime-snippet
+	local path=$kea_snippets_path/$method_name.sublime-snippet
 
 	cat <<-EOL > $path
 
@@ -25,7 +25,7 @@ function makeMethodSnippet () {
 	EOL
 }
 
-grep -o $method_pattern $kiwi_namespace_path |
+grep -o $method_pattern $kea_namespace_path |
 while read method_name
 do
 	makeMethodSnippet $method_name

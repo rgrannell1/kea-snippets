@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kiwi-xIsInfixOf_</description>
+    <content><![CDATA[xIsInfixOf_]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xIsInfixOf_</tabTrigger>
+</snippet>
+

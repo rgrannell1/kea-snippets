@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kiwi-xIsSuffixOf</description>
+    <content><![CDATA[xIsSuffixOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xIsSuffixOf</tabTrigger>
+</snippet>
+
