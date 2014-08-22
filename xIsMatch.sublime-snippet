@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xIsMatch</description>
+    <description>Kea-xIsMatch</description>
     <content><![CDATA[xIsMatch]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsMatch</tabTrigger>

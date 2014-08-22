@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xMaxBy</description>
+    <description>Kea-xMaxBy</description>
     <content><![CDATA[xMaxBy]]></content>
 <scope>source.r</scope>
     <tabTrigger>xMaxBy</tabTrigger>

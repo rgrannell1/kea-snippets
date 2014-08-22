@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xAllOf</description>
+    <description>Kea-xAllOf</description>
     <content><![CDATA[xAllOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAllOf</tabTrigger>

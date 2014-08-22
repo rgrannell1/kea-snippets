@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_SortBy</description>
+    <content><![CDATA[x_SortBy]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_SortBy</tabTrigger>
+</snippet>
+

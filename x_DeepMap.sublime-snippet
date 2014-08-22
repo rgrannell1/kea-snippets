@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_DeepMap</description>
+    <content><![CDATA[x_DeepMap]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_DeepMap</tabTrigger>
+</snippet>
+

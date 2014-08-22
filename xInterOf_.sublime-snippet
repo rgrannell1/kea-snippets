@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xInterOf_</description>
+    <description>Kea-xInterOf_</description>
     <content><![CDATA[xInterOf_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xInterOf_</tabTrigger>

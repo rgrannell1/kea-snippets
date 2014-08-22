@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xIsSubset</description>
+    <description>Kea-xIsSubset</description>
     <content><![CDATA[xIsSubset]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsSubset</tabTrigger>

@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_Locate</description>
+    <content><![CDATA[x_Locate]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_Locate</tabTrigger>
+</snippet>
+

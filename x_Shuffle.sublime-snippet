@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_Shuffle</description>
+    <content><![CDATA[x_Shuffle]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_Shuffle</tabTrigger>
+</snippet>
+

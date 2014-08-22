@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xSecondOf</description>
+    <description>Kea-xSecondOf</description>
     <content><![CDATA[xSecondOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xSecondOf</tabTrigger>

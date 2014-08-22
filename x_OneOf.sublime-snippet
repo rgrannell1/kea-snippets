@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_OneOf</description>
+    <content><![CDATA[x_OneOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_OneOf</tabTrigger>
+</snippet>
+

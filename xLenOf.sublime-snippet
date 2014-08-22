@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xLenOf</description>
+    <description>Kea-xLenOf</description>
     <content><![CDATA[xLenOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xLenOf</tabTrigger>

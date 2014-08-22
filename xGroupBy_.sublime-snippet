@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xGroupBy_</description>
+    <description>Kea-xGroupBy_</description>
     <content><![CDATA[xGroupBy_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xGroupBy_</tabTrigger>

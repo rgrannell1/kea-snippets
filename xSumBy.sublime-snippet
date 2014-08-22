@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xSumBy</description>
+    <description>Kea-xSumBy</description>
     <content><![CDATA[xSumBy]]></content>
 <scope>source.r</scope>
     <tabTrigger>xSumBy</tabTrigger>

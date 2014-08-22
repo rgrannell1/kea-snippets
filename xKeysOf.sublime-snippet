@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xKeysOf</description>
+    <description>Kea-xKeysOf</description>
     <content><![CDATA[xKeysOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xKeysOf</tabTrigger>

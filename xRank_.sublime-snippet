@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xRank_</description>
+    <description>Kea-xRank_</description>
     <content><![CDATA[xRank_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xRank_</tabTrigger>

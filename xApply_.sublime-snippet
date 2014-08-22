@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xApply_</description>
+    <description>Kea-xApply_</description>
     <content><![CDATA[xApply_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xApply_</tabTrigger>

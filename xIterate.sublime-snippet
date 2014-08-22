@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xIterate</description>
+    <description>Kea-xIterate</description>
     <content><![CDATA[xIterate]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIterate</tabTrigger>

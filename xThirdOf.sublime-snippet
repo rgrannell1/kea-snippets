@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xThirdOf</description>
+    <description>Kea-xThirdOf</description>
     <content><![CDATA[xThirdOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xThirdOf</tabTrigger>

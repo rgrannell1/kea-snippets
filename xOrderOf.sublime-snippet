@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xOrderOf</description>
+    <description>Kea-xOrderOf</description>
     <content><![CDATA[xOrderOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xOrderOf</tabTrigger>

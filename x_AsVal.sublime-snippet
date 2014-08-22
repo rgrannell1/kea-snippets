@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_AsVal</description>
+    <content><![CDATA[x_AsVal]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_AsVal</tabTrigger>
+</snippet>
+

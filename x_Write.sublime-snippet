@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_Write</description>
+    <content><![CDATA[x_Write]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_Write</tabTrigger>
+</snippet>
+

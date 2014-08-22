@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_Read</description>
+    <content><![CDATA[x_Read]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_Read</tabTrigger>
+</snippet>
+

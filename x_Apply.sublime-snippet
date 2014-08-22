@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_Apply</description>
+    <content><![CDATA[x_Apply]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_Apply</tabTrigger>
+</snippet>
+

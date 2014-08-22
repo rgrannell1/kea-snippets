@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xPowerSetOf</description>
+    <description>Kea-xPowerSetOf</description>
     <content><![CDATA[xPowerSetOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xPowerSetOf</tabTrigger>

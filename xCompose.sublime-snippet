@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xCompose</description>
+    <description>Kea-xCompose</description>
     <content><![CDATA[xCompose]]></content>
 <scope>source.r</scope>
     <tabTrigger>xCompose</tabTrigger>

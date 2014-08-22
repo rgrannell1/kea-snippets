@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_PowerSetOf</description>
+    <content><![CDATA[x_PowerSetOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_PowerSetOf</tabTrigger>
+</snippet>
+

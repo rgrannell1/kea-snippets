@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xUniqueOf_</description>
+    <description>Kea-xUniqueOf_</description>
     <content><![CDATA[xUniqueOf_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xUniqueOf_</tabTrigger>

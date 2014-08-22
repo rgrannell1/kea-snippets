@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_ValuesOf</description>
+    <content><![CDATA[x_ValuesOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_ValuesOf</tabTrigger>
+</snippet>
+

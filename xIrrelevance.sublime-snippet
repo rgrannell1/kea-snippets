@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xIrrelevance</description>
+    <description>Kea-xIrrelevance</description>
     <content><![CDATA[xIrrelevance]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIrrelevance</tabTrigger>

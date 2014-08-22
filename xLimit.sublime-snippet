@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xLimit</description>
+    <description>Kea-xLimit</description>
     <content><![CDATA[xLimit]]></content>
 <scope>source.r</scope>
     <tabTrigger>xLimit</tabTrigger>

@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xSortBy</description>
+    <description>Kea-xSortBy</description>
     <content><![CDATA[xSortBy]]></content>
 <scope>source.r</scope>
     <tabTrigger>xSortBy</tabTrigger>

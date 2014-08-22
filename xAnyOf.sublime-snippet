@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xAnyOf</description>
+    <description>Kea-xAnyOf</description>
     <content><![CDATA[xAnyOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAnyOf</tabTrigger>

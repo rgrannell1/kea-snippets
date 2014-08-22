@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_ArityOf</description>
+    <content><![CDATA[x_ArityOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_ArityOf</tabTrigger>
+</snippet>
+

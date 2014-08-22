@@ -7,7 +7,7 @@ kea_snippets_path=~/Code/kea-snippets
 
 find $kea_snippets_path -name '*.sublime-snippet' -delete
 
-function makeMethodSnippet () {
+function chainingSnippet () {
 	# create a snippet for a method.
 
 	local method_name=$1
@@ -16,7 +16,26 @@ function makeMethodSnippet () {
 	cat <<-EOL > $path
 
 	<snippet>
-	    <description>Kiwi-$method_name</description>
+	    <description>Kea-$method_name</description>
+	    <content><![CDATA[$method_name]]></content>
+		<scope>source.r</scope>
+	    <tabTrigger>$method_name</tabTrigger>
+	</snippet>
+
+	EOL
+}
+
+function nonChainingSnippet () {
+	# create a snippet for a method.
+
+	local method_basename=$1
+	local method_name=${method_basename/x/"x_"}
+	local path=$kea_snippets_path/$method_name.sublime-snippet
+
+	cat <<-EOL > $path
+
+	<snippet>
+	    <description>Kea-$method_name</description>
 	    <content><![CDATA[$method_name]]></content>
 		<scope>source.r</scope>
 	    <tabTrigger>$method_name</tabTrigger>
@@ -28,5 +47,6 @@ function makeMethodSnippet () {
 grep -o $method_pattern $kea_namespace_path |
 while read method_name
 do
-	makeMethodSnippet $method_name
+	chainingSnippet $method_name
+	nonChainingSnippet $method_name
 done

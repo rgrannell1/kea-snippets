@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xReject_</description>
+    <description>Kea-xReject_</description>
     <content><![CDATA[xReject_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xReject_</tabTrigger>

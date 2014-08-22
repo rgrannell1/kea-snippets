@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xIndicesOf</description>
+    <description>Kea-xIndicesOf</description>
     <content><![CDATA[xIndicesOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIndicesOf</tabTrigger>

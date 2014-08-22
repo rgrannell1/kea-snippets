@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_DuplicatesOf</description>
+    <content><![CDATA[x_DuplicatesOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_DuplicatesOf</tabTrigger>
+</snippet>
+

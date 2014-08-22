@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xUnionOf_</description>
+    <description>Kea-xUnionOf_</description>
     <content><![CDATA[xUnionOf_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xUnionOf_</tabTrigger>

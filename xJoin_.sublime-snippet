@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xJoin_</description>
+    <description>Kea-xJoin_</description>
     <content><![CDATA[xJoin_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xJoin_</tabTrigger>

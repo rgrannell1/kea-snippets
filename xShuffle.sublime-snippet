@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xShuffle</description>
+    <description>Kea-xShuffle</description>
     <content><![CDATA[xShuffle]]></content>
 <scope>source.r</scope>
     <tabTrigger>xShuffle</tabTrigger>

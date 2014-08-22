@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xAsDataFrame_</description>
+    <description>Kea-xAsDataFrame_</description>
     <content><![CDATA[xAsDataFrame_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAsDataFrame_</tabTrigger>

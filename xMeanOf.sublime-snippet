@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xMeanOf</description>
+    <description>Kea-xMeanOf</description>
     <content><![CDATA[xMeanOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xMeanOf</tabTrigger>

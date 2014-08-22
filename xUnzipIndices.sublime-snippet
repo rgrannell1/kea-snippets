@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xUnzipIndices</description>
+    <description>Kea-xUnzipIndices</description>
     <content><![CDATA[xUnzipIndices]]></content>
 <scope>source.r</scope>
     <tabTrigger>xUnzipIndices</tabTrigger>

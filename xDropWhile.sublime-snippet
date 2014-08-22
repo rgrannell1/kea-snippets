@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xDropWhile</description>
+    <description>Kea-xDropWhile</description>
     <content><![CDATA[xDropWhile]]></content>
 <scope>source.r</scope>
     <tabTrigger>xDropWhile</tabTrigger>

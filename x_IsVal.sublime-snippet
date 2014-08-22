@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_IsVal</description>
+    <content><![CDATA[x_IsVal]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_IsVal</tabTrigger>
+</snippet>
+

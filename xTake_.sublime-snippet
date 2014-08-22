@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xTake_</description>
+    <description>Kea-xTake_</description>
     <content><![CDATA[xTake_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xTake_</tabTrigger>

@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xRestOf_</description>
+    <description>Kea-xRestOf_</description>
     <content><![CDATA[xRestOf_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xRestOf_</tabTrigger>

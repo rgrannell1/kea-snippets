@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xSpread</description>
+    <description>Kea-xSpread</description>
     <content><![CDATA[xSpread]]></content>
 <scope>source.r</scope>
     <tabTrigger>xSpread</tabTrigger>

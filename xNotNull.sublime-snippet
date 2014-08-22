@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xNotNull</description>
+    <description>Kea-xNotNull</description>
     <content><![CDATA[xNotNull]]></content>
 <scope>source.r</scope>
     <tabTrigger>xNotNull</tabTrigger>

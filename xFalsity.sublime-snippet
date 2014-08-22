@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xFalsity</description>
+    <description>Kea-xFalsity</description>
     <content><![CDATA[xFalsity]]></content>
 <scope>source.r</scope>
     <tabTrigger>xFalsity</tabTrigger>

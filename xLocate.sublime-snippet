@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xLocate</description>
+    <description>Kea-xLocate</description>
     <content><![CDATA[xLocate]]></content>
 <scope>source.r</scope>
     <tabTrigger>xLocate</tabTrigger>

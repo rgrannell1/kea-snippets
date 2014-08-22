@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xCycle_</description>
+    <description>Kea-xCycle_</description>
     <content><![CDATA[xCycle_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xCycle_</tabTrigger>

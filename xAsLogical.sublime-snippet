@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xAsLogical</description>
+    <description>Kea-xAsLogical</description>
     <content><![CDATA[xAsLogical]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAsLogical</tabTrigger>

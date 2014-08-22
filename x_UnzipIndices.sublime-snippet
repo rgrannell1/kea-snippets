@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_UnzipIndices</description>
+    <content><![CDATA[x_UnzipIndices]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_UnzipIndices</tabTrigger>
+</snippet>
+

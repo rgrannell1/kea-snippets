@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_RestOf</description>
+    <content><![CDATA[x_RestOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_RestOf</tabTrigger>
+</snippet>
+

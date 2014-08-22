@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xList</description>
+    <description>Kea-xList</description>
     <content><![CDATA[xList]]></content>
 <scope>source.r</scope>
     <tabTrigger>xList</tabTrigger>

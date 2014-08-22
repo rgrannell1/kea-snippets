@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xAsInteger</description>
+    <description>Kea-xAsInteger</description>
     <content><![CDATA[xAsInteger]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAsInteger</tabTrigger>

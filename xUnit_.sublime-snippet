@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xUnit_</description>
+    <description>Kea-xUnit_</description>
     <content><![CDATA[xUnit_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xUnit_</tabTrigger>

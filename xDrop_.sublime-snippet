@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xDrop_</description>
+    <description>Kea-xDrop_</description>
     <content><![CDATA[xDrop_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xDrop_</tabTrigger>

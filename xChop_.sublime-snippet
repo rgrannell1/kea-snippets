@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xChop_</description>
+    <description>Kea-xChop_</description>
     <content><![CDATA[xChop_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xChop_</tabTrigger>

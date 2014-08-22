@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xFix</description>
+    <description>Kea-xFix</description>
     <content><![CDATA[xFix]]></content>
 <scope>source.r</scope>
     <tabTrigger>xFix</tabTrigger>

@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xRead</description>
+    <description>Kea-xRead</description>
     <content><![CDATA[xRead]]></content>
 <scope>source.r</scope>
     <tabTrigger>xRead</tabTrigger>

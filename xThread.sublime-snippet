@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xThread</description>
+    <description>Kea-xThread</description>
     <content><![CDATA[xThread]]></content>
 <scope>source.r</scope>
     <tabTrigger>xThread</tabTrigger>

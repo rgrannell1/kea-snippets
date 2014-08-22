@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xFlatten_</description>
+    <description>Kea-xFlatten_</description>
     <content><![CDATA[xFlatten_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xFlatten_</tabTrigger>

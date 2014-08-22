@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xTakeWhile_</description>
+    <description>Kea-xTakeWhile_</description>
     <content><![CDATA[xTakeWhile_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xTakeWhile_</tabTrigger>

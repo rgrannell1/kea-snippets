@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_SumBy_</description>
+    <content><![CDATA[x_SumBy_]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_SumBy_</tabTrigger>
+</snippet>
+

@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_FlatMap</description>
+    <content><![CDATA[x_FlatMap]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_FlatMap</tabTrigger>
+</snippet>
+

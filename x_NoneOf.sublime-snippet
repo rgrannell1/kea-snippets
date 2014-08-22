@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_NoneOf</description>
+    <content><![CDATA[x_NoneOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_NoneOf</tabTrigger>
+</snippet>
+

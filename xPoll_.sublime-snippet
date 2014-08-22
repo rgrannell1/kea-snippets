@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xPoll_</description>
+    <description>Kea-xPoll_</description>
     <content><![CDATA[xPoll_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xPoll_</tabTrigger>

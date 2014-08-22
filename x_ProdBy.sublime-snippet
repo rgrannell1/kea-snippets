@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_ProdBy</description>
+    <content><![CDATA[x_ProdBy]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_ProdBy</tabTrigger>
+</snippet>
+

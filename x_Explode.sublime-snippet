@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_Explode</description>
+    <content><![CDATA[x_Explode]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_Explode</tabTrigger>
+</snippet>
+

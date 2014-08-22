@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xDelay</description>
+    <description>Kea-xDelay</description>
     <content><![CDATA[xDelay]]></content>
 <scope>source.r</scope>
     <tabTrigger>xDelay</tabTrigger>

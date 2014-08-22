@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xSelect</description>
+    <description>Kea-xSelect</description>
     <content><![CDATA[xSelect]]></content>
 <scope>source.r</scope>
     <tabTrigger>xSelect</tabTrigger>

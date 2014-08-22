@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_SecondOf</description>
+    <content><![CDATA[x_SecondOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_SecondOf</tabTrigger>
+</snippet>
+

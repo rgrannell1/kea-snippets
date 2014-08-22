@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_Join</description>
+    <content><![CDATA[x_Join]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_Join</tabTrigger>
+</snippet>
+

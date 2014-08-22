@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xIsInfixOf</description>
+    <description>Kea-xIsInfixOf</description>
     <content><![CDATA[xIsInfixOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsInfixOf</tabTrigger>

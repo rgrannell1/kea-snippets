@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xIsFalse</description>
+    <description>Kea-xIsFalse</description>
     <content><![CDATA[xIsFalse]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsFalse</tabTrigger>

@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xPrepend_</description>
+    <description>Kea-xPrepend_</description>
     <content><![CDATA[xPrepend_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xPrepend_</tabTrigger>

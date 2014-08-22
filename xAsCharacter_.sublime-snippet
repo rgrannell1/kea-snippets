@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xAsCharacter_</description>
+    <description>Kea-xAsCharacter_</description>
     <content><![CDATA[xAsCharacter_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAsCharacter_</tabTrigger>

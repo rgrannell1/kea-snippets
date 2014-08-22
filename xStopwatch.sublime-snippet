@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xStopwatch</description>
+    <description>Kea-xStopwatch</description>
     <content><![CDATA[xStopwatch]]></content>
 <scope>source.r</scope>
     <tabTrigger>xStopwatch</tabTrigger>

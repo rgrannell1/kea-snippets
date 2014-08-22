@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xMap_</description>
+    <description>Kea-xMap_</description>
     <content><![CDATA[xMap_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xMap_</tabTrigger>

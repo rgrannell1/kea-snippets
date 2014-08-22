@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xIsSuffixOf</description>
+    <description>Kea-xIsSuffixOf</description>
     <content><![CDATA[xIsSuffixOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsSuffixOf</tabTrigger>

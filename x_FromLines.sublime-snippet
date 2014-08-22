@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_FromLines</description>
+    <content><![CDATA[x_FromLines]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_FromLines</tabTrigger>
+</snippet>
+

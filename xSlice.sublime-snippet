@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xSlice</description>
+    <description>Kea-xSlice</description>
     <content><![CDATA[xSlice]]></content>
 <scope>source.r</scope>
     <tabTrigger>xSlice</tabTrigger>

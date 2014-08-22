@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_OrderOf</description>
+    <content><![CDATA[x_OrderOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_OrderOf</tabTrigger>
+</snippet>
+

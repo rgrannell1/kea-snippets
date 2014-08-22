@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xNegate</description>
+    <description>Kea-xNegate</description>
     <content><![CDATA[xNegate]]></content>
 <scope>source.r</scope>
     <tabTrigger>xNegate</tabTrigger>

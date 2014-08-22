@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xToChars</description>
+    <description>Kea-xToChars</description>
     <content><![CDATA[xToChars]]></content>
 <scope>source.r</scope>
     <tabTrigger>xToChars</tabTrigger>

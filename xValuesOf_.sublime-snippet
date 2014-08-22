@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xValuesOf_</description>
+    <description>Kea-xValuesOf_</description>
     <content><![CDATA[xValuesOf_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xValuesOf_</tabTrigger>

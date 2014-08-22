@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xZip_</description>
+    <description>Kea-xZip_</description>
     <content><![CDATA[xZip_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xZip_</tabTrigger>

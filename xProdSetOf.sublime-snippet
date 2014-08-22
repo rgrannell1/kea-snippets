@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xProdSetOf</description>
+    <description>Kea-xProdSetOf</description>
     <content><![CDATA[xProdSetOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xProdSetOf</tabTrigger>

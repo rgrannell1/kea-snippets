@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_SliceString</description>
+    <content><![CDATA[x_SliceString]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_SliceString</tabTrigger>
+</snippet>
+

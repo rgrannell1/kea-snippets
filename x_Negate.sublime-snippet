@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_Negate</description>
+    <content><![CDATA[x_Negate]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_Negate</tabTrigger>
+</snippet>
+

@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xRepeat_</description>
+    <description>Kea-xRepeat_</description>
     <content><![CDATA[xRepeat_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xRepeat_</tabTrigger>

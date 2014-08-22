@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xWrite</description>
+    <description>Kea-xWrite</description>
     <content><![CDATA[xWrite]]></content>
 <scope>source.r</scope>
     <tabTrigger>xWrite</tabTrigger>

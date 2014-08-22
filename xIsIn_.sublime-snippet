@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xIsIn_</description>
+    <description>Kea-xIsIn_</description>
     <content><![CDATA[xIsIn_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsIn_</tabTrigger>

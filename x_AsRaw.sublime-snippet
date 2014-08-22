@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_AsRaw</description>
+    <content><![CDATA[x_AsRaw]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_AsRaw</tabTrigger>
+</snippet>
+

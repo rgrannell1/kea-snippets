@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xExplode</description>
+    <description>Kea-xExplode</description>
     <content><![CDATA[xExplode]]></content>
 <scope>source.r</scope>
     <tabTrigger>xExplode</tabTrigger>

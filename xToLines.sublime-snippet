@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xToLines</description>
+    <description>Kea-xToLines</description>
     <content><![CDATA[xToLines]]></content>
 <scope>source.r</scope>
     <tabTrigger>xToLines</tabTrigger>

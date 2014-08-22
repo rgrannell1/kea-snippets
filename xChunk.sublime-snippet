@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xChunk</description>
+    <description>Kea-xChunk</description>
     <content><![CDATA[xChunk]]></content>
 <scope>source.r</scope>
     <tabTrigger>xChunk</tabTrigger>

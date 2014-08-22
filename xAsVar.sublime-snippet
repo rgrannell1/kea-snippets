@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xAsVar</description>
+    <description>Kea-xAsVar</description>
     <content><![CDATA[xAsVar]]></content>
 <scope>source.r</scope>
     <tabTrigger>xAsVar</tabTrigger>

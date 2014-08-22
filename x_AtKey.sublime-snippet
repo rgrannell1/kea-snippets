@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_AtKey</description>
+    <content><![CDATA[x_AtKey]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_AtKey</tabTrigger>
+</snippet>
+

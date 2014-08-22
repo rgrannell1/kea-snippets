@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xScan</description>
+    <description>Kea-xScan</description>
     <content><![CDATA[xScan]]></content>
 <scope>source.r</scope>
     <tabTrigger>xScan</tabTrigger>

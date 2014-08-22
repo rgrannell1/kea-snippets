@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xNotIn_</description>
+    <description>Kea-xNotIn_</description>
     <content><![CDATA[xNotIn_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xNotIn_</tabTrigger>

@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xIsPrefixOf</description>
+    <description>Kea-xIsPrefixOf</description>
     <content><![CDATA[xIsPrefixOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xIsPrefixOf</tabTrigger>

@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xProdBy</description>
+    <description>Kea-xProdBy</description>
     <content><![CDATA[xProdBy]]></content>
 <scope>source.r</scope>
     <tabTrigger>xProdBy</tabTrigger>

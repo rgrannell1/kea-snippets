@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xDuplicatesOf</description>
+    <description>Kea-xDuplicatesOf</description>
     <content><![CDATA[xDuplicatesOf]]></content>
 <scope>source.r</scope>
     <tabTrigger>xDuplicatesOf</tabTrigger>

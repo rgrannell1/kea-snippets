@@ -1,6 +1,6 @@
 
 <snippet>
-    <description>Kiwi-xMinBy_</description>
+    <description>Kea-xMinBy_</description>
     <content><![CDATA[xMinBy_]]></content>
 <scope>source.r</scope>
     <tabTrigger>xMinBy_</tabTrigger>
