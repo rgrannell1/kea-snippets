@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-xAsList</description>
+    <content><![CDATA[xAsList]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xAsList</tabTrigger>
+</snippet>
+
