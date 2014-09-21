@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_IsSubsetOf</description>
+    <content><![CDATA[x_IsSubsetOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_IsSubsetOf</tabTrigger>
+</snippet>
+

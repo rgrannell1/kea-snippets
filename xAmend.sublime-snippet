@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-xAmend</description>
+    <content><![CDATA[xAmend]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xAmend</tabTrigger>
+</snippet>
+

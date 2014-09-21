@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-xMeanBy</description>
+    <content><![CDATA[xMeanBy]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xMeanBy</tabTrigger>
+</snippet>
+

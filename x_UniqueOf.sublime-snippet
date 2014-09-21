@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_UniqueOf</description>
-    <content><![CDATA[x_UniqueOf]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_UniqueOf</tabTrigger>
-</snippet>
-

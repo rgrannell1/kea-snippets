@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-xNotSuffixOf</description>
+    <content><![CDATA[xNotSuffixOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xNotSuffixOf</tabTrigger>
+</snippet>
+

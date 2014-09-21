@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_DistinctOf</description>
+    <content><![CDATA[x_DistinctOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_DistinctOf</tabTrigger>
+</snippet>
+

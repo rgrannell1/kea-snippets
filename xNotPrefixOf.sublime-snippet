@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-xNotPrefixOf</description>
+    <content><![CDATA[xNotPrefixOf]]></content>
+<scope>source.r</scope>
+    <tabTrigger>xNotPrefixOf</tabTrigger>
+</snippet>
+
