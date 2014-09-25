@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-xIsVariadic</description>
-    <content><![CDATA[xIsVariadic]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xIsVariadic</tabTrigger>
-</snippet>
-

@@ -1,0 +1,8 @@
+
+<snippet>
+    <description>Kea-x_Carve</description>
+    <content><![CDATA[x_Carve]]></content>
+<scope>source.r</scope>
+    <tabTrigger>x_Carve</tabTrigger>
+</snippet>
+
