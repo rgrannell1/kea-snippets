@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_IsSuffixOf_</description>
-    <content><![CDATA[x_IsSuffixOf_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_IsSuffixOf_</tabTrigger>
-</snippet>
-

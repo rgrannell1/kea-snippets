@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xNotIn</description>
-    <content><![CDATA[xNotIn]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xNotIn</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xNotIn(val, coll)</description>
+	<content><![CDATA[xNotIn]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xNotIn</tabTrigger>
+	</snippet>
+	

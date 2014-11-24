@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xCharsOf</description>
-    <content><![CDATA[xCharsOf]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xCharsOf</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xCharsOf(str)</description>
+	<content><![CDATA[xCharsOf]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xCharsOf</tabTrigger>
+	</snippet>
+	

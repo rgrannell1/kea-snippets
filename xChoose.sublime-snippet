@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xChoose</description>
-    <content><![CDATA[xChoose]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xChoose</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xChoose(num, coll)</description>
+	<content><![CDATA[xChoose]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xChoose</tabTrigger>
+	</snippet>
+	

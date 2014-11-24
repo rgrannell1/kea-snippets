@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_Gather</description>
-    <content><![CDATA[x_Gather]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_Gather</tabTrigger>
-</snippet>
-

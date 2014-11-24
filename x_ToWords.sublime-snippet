@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_ToWords</description>
-    <content><![CDATA[x_ToWords]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_ToWords</tabTrigger>
-</snippet>
-

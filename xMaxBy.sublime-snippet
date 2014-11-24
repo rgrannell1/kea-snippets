@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xMaxBy</description>
-    <content><![CDATA[xMaxBy]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xMaxBy</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xMaxBy(fn, coll)</description>
+	<content><![CDATA[xMaxBy]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xMaxBy</tabTrigger>
+	</snippet>
+	

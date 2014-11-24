@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xIndicesTo</description>
-    <content><![CDATA[xIndicesTo]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xIndicesTo</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xIndicesTo(num)</description>
+	<content><![CDATA[xIndicesTo]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xIndicesTo</tabTrigger>
+	</snippet>
+	

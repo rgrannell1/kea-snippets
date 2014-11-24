@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xNotFalse</description>
-    <content><![CDATA[xNotFalse]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xNotFalse</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xNotFalse(val)</description>
+	<content><![CDATA[xNotFalse]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xNotFalse</tabTrigger>
+	</snippet>
+	

@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_Implode</description>
-    <content><![CDATA[x_Implode]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_Implode</tabTrigger>
-</snippet>
-

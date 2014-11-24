@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_Identity</description>
-    <content><![CDATA[x_Identity]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_Identity</tabTrigger>
-</snippet>
-

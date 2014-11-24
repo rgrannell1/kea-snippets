@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_AnyOf</description>
-    <content><![CDATA[x_AnyOf]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_AnyOf</tabTrigger>
-</snippet>
-

@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xRestOf</description>
-    <content><![CDATA[xRestOf]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xRestOf</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xRestOf(coll)</description>
+	<content><![CDATA[xRestOf]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xRestOf</tabTrigger>
+	</snippet>
+	

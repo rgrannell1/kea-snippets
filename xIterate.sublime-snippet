@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xIterate</description>
-    <content><![CDATA[xIterate]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xIterate</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xIterate(fn, val)</description>
+	<content><![CDATA[xIterate]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xIterate</tabTrigger>
+	</snippet>
+	

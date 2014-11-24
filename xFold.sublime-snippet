@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xFold</description>
-    <content><![CDATA[xFold]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xFold</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xFold(fn, val, coll)</description>
+	<content><![CDATA[xFold]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xFold</tabTrigger>
+	</snippet>
+	

@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xJuxtapose_</description>
-    <content><![CDATA[xJuxtapose_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xJuxtapose_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xJuxtapose_(...)</description>
+	<content><![CDATA[xJuxtapose_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xJuxtapose_</tabTrigger>
+	</snippet>
+	

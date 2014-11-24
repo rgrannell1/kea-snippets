@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xIsTrue</description>
-    <content><![CDATA[xIsTrue]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xIsTrue</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xIsTrue(val)</description>
+	<content><![CDATA[xIsTrue]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xIsTrue</tabTrigger>
+	</snippet>
+	

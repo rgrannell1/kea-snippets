@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xRiffle</description>
-    <content><![CDATA[xRiffle]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xRiffle</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xRiffle(val, coll)</description>
+	<content><![CDATA[xRiffle]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xRiffle</tabTrigger>
+	</snippet>
+	

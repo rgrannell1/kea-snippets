@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xAsDataFrame</description>
-    <content><![CDATA[xAsDataFrame]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xAsDataFrame</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xAsDataFrame(colls)</description>
+	<content><![CDATA[xAsDataFrame]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xAsDataFrame</tabTrigger>
+	</snippet>
+	

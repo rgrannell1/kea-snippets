@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xAt_</description>
-    <content><![CDATA[xAt_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xAt_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xAt_(num, ...)</description>
+	<content><![CDATA[xAt_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xAt_</tabTrigger>
+	</snippet>
+	

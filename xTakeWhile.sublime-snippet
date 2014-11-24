@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xTakeWhile</description>
-    <content><![CDATA[xTakeWhile]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xTakeWhile</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xTakeWhile(pred, coll)</description>
+	<content><![CDATA[xTakeWhile]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xTakeWhile</tabTrigger>
+	</snippet>
+	

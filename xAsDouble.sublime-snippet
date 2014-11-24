@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xAsDouble</description>
-    <content><![CDATA[xAsDouble]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xAsDouble</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xAsDouble(nums)</description>
+	<content><![CDATA[xAsDouble]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xAsDouble</tabTrigger>
+	</snippet>
+	

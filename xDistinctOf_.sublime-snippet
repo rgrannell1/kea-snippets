@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xDistinctOf_</description>
-    <content><![CDATA[xDistinctOf_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xDistinctOf_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xDistinctOf_(...)</description>
+	<content><![CDATA[xDistinctOf_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xDistinctOf_</tabTrigger>
+	</snippet>
+	

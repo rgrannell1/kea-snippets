@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xAddKeys</description>
-    <content><![CDATA[xAddKeys]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xAddKeys</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xAddKeys(strs, coll)</description>
+	<content><![CDATA[xAddKeys]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xAddKeys</tabTrigger>
+	</snippet>
+	

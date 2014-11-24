@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xChunk_</description>
-    <content><![CDATA[xChunk_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xChunk_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xChunk_(num, ...)</description>
+	<content><![CDATA[xChunk_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xChunk_</tabTrigger>
+	</snippet>
+	

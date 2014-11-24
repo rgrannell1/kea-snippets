@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xIsNan</description>
-    <content><![CDATA[xIsNan]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xIsNan</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xIsNan(val)</description>
+	<content><![CDATA[xIsNan]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xIsNan</tabTrigger>
+	</snippet>
+	

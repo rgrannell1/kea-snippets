@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xFirstOf_</description>
-    <content><![CDATA[xFirstOf_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xFirstOf_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xFirstOf_(...)</description>
+	<content><![CDATA[xFirstOf_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xFirstOf_</tabTrigger>
+	</snippet>
+	

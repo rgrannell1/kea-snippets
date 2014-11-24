@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xCycle</description>
-    <content><![CDATA[xCycle]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xCycle</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xCycle(num, coll)</description>
+	<content><![CDATA[xCycle]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xCycle</tabTrigger>
+	</snippet>
+	

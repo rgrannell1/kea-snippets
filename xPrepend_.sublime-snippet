@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xPrepend_</description>
-    <content><![CDATA[xPrepend_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xPrepend_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xPrepend_(val, ...)</description>
+	<content><![CDATA[xPrepend_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xPrepend_</tabTrigger>
+	</snippet>
+	

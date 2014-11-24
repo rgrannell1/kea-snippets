@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_AddKeys</description>
-    <content><![CDATA[x_AddKeys]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_AddKeys</tabTrigger>
-</snippet>
-

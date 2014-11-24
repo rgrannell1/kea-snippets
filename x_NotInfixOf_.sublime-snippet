@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_NotInfixOf_</description>
-    <content><![CDATA[x_NotInfixOf_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_NotInfixOf_</tabTrigger>
-</snippet>
-

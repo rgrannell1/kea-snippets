@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_AsDataFrame_</description>
-    <content><![CDATA[x_AsDataFrame_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_AsDataFrame_</tabTrigger>
-</snippet>
-

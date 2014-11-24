@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_NotSubsetOf_</description>
-    <content><![CDATA[x_NotSubsetOf_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_NotSubsetOf_</tabTrigger>
-</snippet>
-

@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xMap</description>
-    <content><![CDATA[xMap]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xMap</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xMap(fn, coll)</description>
+	<content><![CDATA[xMap]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xMap</tabTrigger>
+	</snippet>
+	

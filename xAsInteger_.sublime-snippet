@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xAsInteger_</description>
-    <content><![CDATA[xAsInteger_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xAsInteger_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xAsInteger_(...)</description>
+	<content><![CDATA[xAsInteger_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xAsInteger_</tabTrigger>
+	</snippet>
+	

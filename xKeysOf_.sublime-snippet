@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xKeysOf_</description>
-    <content><![CDATA[xKeysOf_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xKeysOf_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xKeysOf_(...)</description>
+	<content><![CDATA[xKeysOf_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xKeysOf_</tabTrigger>
+	</snippet>
+	

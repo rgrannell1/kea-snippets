@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xLocate</description>
-    <content><![CDATA[xLocate]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xLocate</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xLocate(pred, coll)</description>
+	<content><![CDATA[xLocate]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xLocate</tabTrigger>
+	</snippet>
+	

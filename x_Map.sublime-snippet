@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_Map</description>
-    <content><![CDATA[x_Map]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_Map</tabTrigger>
-</snippet>
-

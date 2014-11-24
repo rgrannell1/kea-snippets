@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xFlatten_</description>
-    <content><![CDATA[xFlatten_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xFlatten_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xFlatten_(num, ...)</description>
+	<content><![CDATA[xFlatten_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xFlatten_</tabTrigger>
+	</snippet>
+	

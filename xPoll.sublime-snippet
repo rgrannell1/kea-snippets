@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xPoll</description>
-    <content><![CDATA[xPoll]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xPoll</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xPoll(pred, coll)</description>
+	<content><![CDATA[xPoll]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xPoll</tabTrigger>
+	</snippet>
+	

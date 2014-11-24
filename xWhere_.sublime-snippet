@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xWhere_</description>
-    <content><![CDATA[xWhere_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xWhere_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xWhere_(...)</description>
+	<content><![CDATA[xWhere_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xWhere_</tabTrigger>
+	</snippet>
+	

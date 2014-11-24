@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xI</description>
-    <content><![CDATA[xI]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xI</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xI(val)</description>
+	<content><![CDATA[xI]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xI</tabTrigger>
+	</snippet>
+	

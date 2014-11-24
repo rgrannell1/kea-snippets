@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xDeepMap</description>
-    <content><![CDATA[xDeepMap]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xDeepMap</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xDeepMap(fn, coll)</description>
+	<content><![CDATA[xDeepMap]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xDeepMap</tabTrigger>
+	</snippet>
+	

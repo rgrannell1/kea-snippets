@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xMinBy</description>
-    <content><![CDATA[xMinBy]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xMinBy</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xMinBy(fn, coll)</description>
+	<content><![CDATA[xMinBy]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xMinBy</tabTrigger>
+	</snippet>
+	

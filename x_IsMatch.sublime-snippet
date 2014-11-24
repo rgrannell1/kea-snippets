@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_IsMatch</description>
-    <content><![CDATA[x_IsMatch]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_IsMatch</tabTrigger>
-</snippet>
-

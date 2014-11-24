@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xFalsity</description>
-    <content><![CDATA[xFalsity]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xFalsity</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xFalsity(...)</description>
+	<content><![CDATA[xFalsity]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xFalsity</tabTrigger>
+	</snippet>
+	

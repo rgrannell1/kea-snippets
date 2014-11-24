@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_Intersect</description>
-    <content><![CDATA[x_Intersect]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_Intersect</tabTrigger>
-</snippet>
-

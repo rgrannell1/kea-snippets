@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xRead</description>
-    <content><![CDATA[xRead]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xRead</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xRead(str)</description>
+	<content><![CDATA[xRead]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xRead</tabTrigger>
+	</snippet>
+	

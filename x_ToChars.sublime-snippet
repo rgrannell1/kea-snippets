@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_ToChars</description>
-    <content><![CDATA[x_ToChars]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_ToChars</tabTrigger>
-</snippet>
-

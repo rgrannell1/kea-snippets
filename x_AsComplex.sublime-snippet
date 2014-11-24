@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_AsComplex</description>
-    <content><![CDATA[x_AsComplex]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_AsComplex</tabTrigger>
-</snippet>
-

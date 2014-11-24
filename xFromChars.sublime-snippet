@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xFromChars</description>
-    <content><![CDATA[xFromChars]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xFromChars</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xFromChars(strs)</description>
+	<content><![CDATA[xFromChars]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xFromChars</tabTrigger>
+	</snippet>
+	

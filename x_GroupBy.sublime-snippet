@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_GroupBy</description>
-    <content><![CDATA[x_GroupBy]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_GroupBy</tabTrigger>
-</snippet>
-

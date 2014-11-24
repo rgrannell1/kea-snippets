@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_Append</description>
-    <content><![CDATA[x_Append]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_Append</tabTrigger>
-</snippet>
-

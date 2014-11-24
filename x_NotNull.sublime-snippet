@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_NotNull</description>
-    <content><![CDATA[x_NotNull]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_NotNull</tabTrigger>
-</snippet>
-

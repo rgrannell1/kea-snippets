@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xNotSuffixOf</description>
-    <content><![CDATA[xNotSuffixOf]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xNotSuffixOf</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xNotSuffixOf(coll1, coll2)</description>
+	<content><![CDATA[xNotSuffixOf]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xNotSuffixOf</tabTrigger>
+	</snippet>
+	

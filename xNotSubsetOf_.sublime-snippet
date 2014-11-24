@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xNotSubsetOf_</description>
-    <content><![CDATA[xNotSubsetOf_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xNotSubsetOf_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xNotSubsetOf_(coll1, ...)</description>
+	<content><![CDATA[xNotSubsetOf_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xNotSubsetOf_</tabTrigger>
+	</snippet>
+	

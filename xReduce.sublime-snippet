@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xReduce</description>
-    <content><![CDATA[xReduce]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xReduce</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xReduce(fn, coll)</description>
+	<content><![CDATA[xReduce]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xReduce</tabTrigger>
+	</snippet>
+	

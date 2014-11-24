@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_LastOf</description>
-    <content><![CDATA[x_LastOf]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_LastOf</tabTrigger>
-</snippet>
-

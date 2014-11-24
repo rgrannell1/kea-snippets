@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_IsFalse</description>
-    <content><![CDATA[x_IsFalse]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_IsFalse</tabTrigger>
-</snippet>
-

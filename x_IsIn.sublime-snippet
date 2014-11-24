@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_IsIn</description>
-    <content><![CDATA[x_IsIn]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_IsIn</tabTrigger>
-</snippet>
-

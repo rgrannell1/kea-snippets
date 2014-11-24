@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_Tabulate_</description>
-    <content><![CDATA[x_Tabulate_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_Tabulate_</tabTrigger>
-</snippet>
-

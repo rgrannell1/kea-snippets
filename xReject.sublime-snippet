@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xReject</description>
-    <content><![CDATA[xReject]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xReject</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xReject(pred, coll)</description>
+	<content><![CDATA[xReject]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xReject</tabTrigger>
+	</snippet>
+	

@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xNotInfixOf</description>
-    <content><![CDATA[xNotInfixOf]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xNotInfixOf</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xNotInfixOf(coll1, coll2)</description>
+	<content><![CDATA[xNotInfixOf]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xNotInfixOf</tabTrigger>
+	</snippet>
+	

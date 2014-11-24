@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xSlice</description>
-    <content><![CDATA[xSlice]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xSlice</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xSlice(nums, coll)</description>
+	<content><![CDATA[xSlice]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xSlice</tabTrigger>
+	</snippet>
+	

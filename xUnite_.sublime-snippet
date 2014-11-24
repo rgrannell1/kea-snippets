@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xUnite_</description>
-    <content><![CDATA[xUnite_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xUnite_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xUnite_(coll1, ...)</description>
+	<content><![CDATA[xUnite_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xUnite_</tabTrigger>
+	</snippet>
+	

@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xAllOf</description>
-    <content><![CDATA[xAllOf]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xAllOf</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xAllOf(pred, coll)</description>
+	<content><![CDATA[xAllOf]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xAllOf</tabTrigger>
+	</snippet>
+	

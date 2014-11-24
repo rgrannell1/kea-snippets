@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xTabulate</description>
-    <content><![CDATA[xTabulate]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xTabulate</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xTabulate(coll)</description>
+	<content><![CDATA[xTabulate]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xTabulate</tabTrigger>
+	</snippet>
+	

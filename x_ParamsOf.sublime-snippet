@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_ParamsOf</description>
-    <content><![CDATA[x_ParamsOf]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_ParamsOf</tabTrigger>
-</snippet>
-

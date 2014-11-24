@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xDo</description>
-    <content><![CDATA[xDo]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xDo</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xDo(fn, coll)</description>
+	<content><![CDATA[xDo]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xDo</tabTrigger>
+	</snippet>
+	

@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xIndicesOf_</description>
-    <content><![CDATA[xIndicesOf_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xIndicesOf_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xIndicesOf_(...)</description>
+	<content><![CDATA[xIndicesOf_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xIndicesOf_</tabTrigger>
+	</snippet>
+	

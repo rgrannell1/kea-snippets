@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xMeanBy_</description>
-    <content><![CDATA[xMeanBy_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xMeanBy_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xMeanBy_(fn, ...)</description>
+	<content><![CDATA[xMeanBy_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xMeanBy_</tabTrigger>
+	</snippet>
+	

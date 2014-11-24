@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xAsRaw_</description>
-    <content><![CDATA[xAsRaw_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xAsRaw_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xAsRaw_(...)</description>
+	<content><![CDATA[xAsRaw_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xAsRaw_</tabTrigger>
+	</snippet>
+	

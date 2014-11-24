@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xThread</description>
-    <content><![CDATA[xThread]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xThread</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xThread(val, fns)</description>
+	<content><![CDATA[xThread]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xThread</tabTrigger>
+	</snippet>
+	

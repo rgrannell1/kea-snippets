@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xInitOf</description>
-    <content><![CDATA[xInitOf]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xInitOf</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xInitOf(coll)</description>
+	<content><![CDATA[xInitOf]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xInitOf</tabTrigger>
+	</snippet>
+	

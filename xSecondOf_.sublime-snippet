@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xSecondOf_</description>
-    <content><![CDATA[xSecondOf_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xSecondOf_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xSecondOf_(...)</description>
+	<content><![CDATA[xSecondOf_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xSecondOf_</tabTrigger>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	<description>xInvoke_(fn, ...)</description>
+	<content><![CDATA[xInvoke_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xInvoke_</tabTrigger>
+	</snippet>
+	

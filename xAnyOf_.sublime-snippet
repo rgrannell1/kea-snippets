@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xAnyOf_</description>
-    <content><![CDATA[xAnyOf_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xAnyOf_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xAnyOf_(pred, ...)</description>
+	<content><![CDATA[xAnyOf_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xAnyOf_</tabTrigger>
+	</snippet>
+	

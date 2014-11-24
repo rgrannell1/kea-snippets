@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xNoneOf_</description>
-    <content><![CDATA[xNoneOf_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xNoneOf_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xNoneOf_(pred, ...)</description>
+	<content><![CDATA[xNoneOf_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xNoneOf_</tabTrigger>
+	</snippet>
+	

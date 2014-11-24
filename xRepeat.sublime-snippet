@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xRepeat</description>
-    <content><![CDATA[xRepeat]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xRepeat</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xRepeat(num, coll)</description>
+	<content><![CDATA[xRepeat]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xRepeat</tabTrigger>
+	</snippet>
+	

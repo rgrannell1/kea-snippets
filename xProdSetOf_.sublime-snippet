@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xProdSetOf_</description>
-    <content><![CDATA[xProdSetOf_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xProdSetOf_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xProdSetOf_(...)</description>
+	<content><![CDATA[xProdSetOf_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xProdSetOf_</tabTrigger>
+	</snippet>
+	

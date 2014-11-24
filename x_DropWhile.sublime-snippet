@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_DropWhile</description>
-    <content><![CDATA[x_DropWhile]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_DropWhile</tabTrigger>
-</snippet>
-

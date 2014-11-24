@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xSortBy_</description>
-    <content><![CDATA[xSortBy_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xSortBy_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xSortBy_(fn, ...)</description>
+	<content><![CDATA[xSortBy_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xSortBy_</tabTrigger>
+	</snippet>
+	

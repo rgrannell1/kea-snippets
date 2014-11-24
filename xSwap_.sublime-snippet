@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xSwap_</description>
-    <content><![CDATA[xSwap_]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xSwap_</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xSwap_(val1, val2, ...)</description>
+	<content><![CDATA[xSwap_]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xSwap_</tabTrigger>
+	</snippet>
+	

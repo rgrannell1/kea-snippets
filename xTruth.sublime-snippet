@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xTruth</description>
-    <content><![CDATA[xTruth]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xTruth</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xTruth(...)</description>
+	<content><![CDATA[xTruth]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xTruth</tabTrigger>
+	</snippet>
+	

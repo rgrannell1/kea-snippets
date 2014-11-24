@@ -1,8 +1,8 @@
 
-<snippet>
-    <description>Kea-xSumBy</description>
-    <content><![CDATA[xSumBy]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xSumBy</tabTrigger>
-</snippet>
-
+	<snippet>
+	<description>xSumBy(fn, coll)</description>
+	<content><![CDATA[xSumBy]]></content>
+	<scope>source.r</scope>
+	<tabTrigger>xSumBy</tabTrigger>
+	</snippet>
+	

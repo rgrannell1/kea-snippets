@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-x_NotMatch</description>
-    <content><![CDATA[x_NotMatch]]></content>
-<scope>source.r</scope>
-    <tabTrigger>x_NotMatch</tabTrigger>
-</snippet>
-
