@@ -1,8 +1,0 @@
-
-<snippet>
-    <description>Kea-xChop</description>
-    <content><![CDATA[xChop]]></content>
-<scope>source.r</scope>
-    <tabTrigger>xChop</tabTrigger>
-</snippet>
-
