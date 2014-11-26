@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xIsSubsetOf(coll1, coll2)</description>
-	<content><![CDATA[xIsSubsetOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xIsSubsetOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xIsSubsetOf(coll1, coll2)</description>
+<content><![CDATA[xIsSubsetOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xIsSubsetOf</tabTrigger>
+</snippet>
+

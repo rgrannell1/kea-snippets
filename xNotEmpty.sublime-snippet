@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xNotEmpty(coll)</description>
-	<content><![CDATA[xNotEmpty]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xNotEmpty</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xNotEmpty(coll)</description>
+<content><![CDATA[xNotEmpty]]></content>
+<scope>source.r</scope>
+<tabTrigger>xNotEmpty</tabTrigger>
+</snippet>
+

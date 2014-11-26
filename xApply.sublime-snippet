@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xApply(fn, coll)</description>
-	<content><![CDATA[xApply]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xApply</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xApply(fn, coll)</description>
+<content><![CDATA[xApply]]></content>
+<scope>source.r</scope>
+<tabTrigger>xApply</tabTrigger>
+</snippet>
+

@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xIdentity(val)</description>
-	<content><![CDATA[xIdentity]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xIdentity</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xIdentity(val)</description>
+<content><![CDATA[xIdentity]]></content>
+<scope>source.r</scope>
+<tabTrigger>xIdentity</tabTrigger>
+</snippet>
+

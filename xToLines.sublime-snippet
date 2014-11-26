@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xToLines(str)</description>
-	<content><![CDATA[xToLines]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xToLines</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xToLines(str)</description>
+<content><![CDATA[xToLines]]></content>
+<scope>source.r</scope>
+<tabTrigger>xToLines</tabTrigger>
+</snippet>
+

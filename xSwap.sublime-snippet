@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xSwap(val1, val2, coll)</description>
-	<content><![CDATA[xSwap]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xSwap</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xSwap(val1, val2, coll)</description>
+<content><![CDATA[xSwap]]></content>
+<scope>source.r</scope>
+<tabTrigger>xSwap</tabTrigger>
+</snippet>
+

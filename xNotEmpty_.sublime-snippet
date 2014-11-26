@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xNotEmpty_(...)</description>
-	<content><![CDATA[xNotEmpty_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xNotEmpty_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xNotEmpty_(...)</description>
+<content><![CDATA[xNotEmpty_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xNotEmpty_</tabTrigger>
+</snippet>
+

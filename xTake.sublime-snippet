@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xTake(num, coll)</description>
-	<content><![CDATA[xTake]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xTake</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xTake(num, coll)</description>
+<content><![CDATA[xTake]]></content>
+<scope>source.r</scope>
+<tabTrigger>xTake</tabTrigger>
+</snippet>
+

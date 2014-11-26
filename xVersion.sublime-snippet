@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xVersion(...)</description>
-	<content><![CDATA[xVersion]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xVersion</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xVersion(...)</description>
+<content><![CDATA[xVersion]]></content>
+<scope>source.r</scope>
+<tabTrigger>xVersion</tabTrigger>
+</snippet>
+

@@ -4,20 +4,20 @@ require(kea)
 
 
 
+
+
+"
+<snippet>
+<description>%s</description>
+<content><![CDATA[%s]]></content>
+<scope>source.r</scope>
+<tabTrigger>%s</tabTrigger>
+</snippet>
+" -> template
+
 make_snippet <- (method_name : description) := {
-	"
-	<snippet>
-	<description>%s</description>
-	<content><![CDATA[%s]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>%s</tabTrigger>
-	</snippet>
-	" -> template
-
 	sprintf(template, description, method_name, method_name)
-
 }
-
 
 
 

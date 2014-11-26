@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xTakeWhile_(pred, ...)</description>
-	<content><![CDATA[xTakeWhile_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xTakeWhile_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xTakeWhile_(pred, ...)</description>
+<content><![CDATA[xTakeWhile_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xTakeWhile_</tabTrigger>
+</snippet>
+

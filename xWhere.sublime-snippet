@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xWhere(bools)</description>
-	<content><![CDATA[xWhere]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xWhere</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xWhere(bools)</description>
+<content><![CDATA[xWhere]]></content>
+<scope>source.r</scope>
+<tabTrigger>xWhere</tabTrigger>
+</snippet>
+

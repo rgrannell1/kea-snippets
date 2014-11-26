@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xJuxtapose(fns)</description>
-	<content><![CDATA[xJuxtapose]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xJuxtapose</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xJuxtapose(fns)</description>
+<content><![CDATA[xJuxtapose]]></content>
+<scope>source.r</scope>
+<tabTrigger>xJuxtapose</tabTrigger>
+</snippet>
+

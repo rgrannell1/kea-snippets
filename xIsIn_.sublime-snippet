@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xIsIn_(val, ...)</description>
-	<content><![CDATA[xIsIn_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xIsIn_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xIsIn_(val, ...)</description>
+<content><![CDATA[xIsIn_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xIsIn_</tabTrigger>
+</snippet>
+

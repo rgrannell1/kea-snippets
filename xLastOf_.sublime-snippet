@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xLastOf_(...)</description>
-	<content><![CDATA[xLastOf_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xLastOf_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xLastOf_(...)</description>
+<content><![CDATA[xLastOf_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xLastOf_</tabTrigger>
+</snippet>
+

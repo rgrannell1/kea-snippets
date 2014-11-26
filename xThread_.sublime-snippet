@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xThread_(val, ...)</description>
-	<content><![CDATA[xThread_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xThread_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xThread_(val, ...)</description>
+<content><![CDATA[xThread_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xThread_</tabTrigger>
+</snippet>
+

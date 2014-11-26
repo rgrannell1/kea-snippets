@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xAsList(coll)</description>
-	<content><![CDATA[xAsList]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xAsList</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xAsList(coll)</description>
+<content><![CDATA[xAsList]]></content>
+<scope>source.r</scope>
+<tabTrigger>xAsList</tabTrigger>
+</snippet>
+

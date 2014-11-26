@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xRank_(...)</description>
-	<content><![CDATA[xRank_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xRank_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xRank_(...)</description>
+<content><![CDATA[xRank_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xRank_</tabTrigger>
+</snippet>
+

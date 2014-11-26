@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xCompose(fns)</description>
-	<content><![CDATA[xCompose]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xCompose</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xCompose(fns)</description>
+<content><![CDATA[xCompose]]></content>
+<scope>source.r</scope>
+<tabTrigger>xCompose</tabTrigger>
+</snippet>
+

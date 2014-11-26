@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xExplode(rexp, str)</description>
-	<content><![CDATA[xExplode]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xExplode</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xExplode(rexp, str)</description>
+<content><![CDATA[xExplode]]></content>
+<scope>source.r</scope>
+<tabTrigger>xExplode</tabTrigger>
+</snippet>
+

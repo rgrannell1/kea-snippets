@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xRecycle_(num, ...)</description>
-	<content><![CDATA[xRecycle_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xRecycle_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xRecycle_(num, ...)</description>
+<content><![CDATA[xRecycle_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xRecycle_</tabTrigger>
+</snippet>
+

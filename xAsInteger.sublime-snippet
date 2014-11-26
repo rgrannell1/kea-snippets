@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xAsInteger(ints)</description>
-	<content><![CDATA[xAsInteger]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xAsInteger</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xAsInteger(ints)</description>
+<content><![CDATA[xAsInteger]]></content>
+<scope>source.r</scope>
+<tabTrigger>xAsInteger</tabTrigger>
+</snippet>
+

@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xIntersect_(coll1, ...)</description>
-	<content><![CDATA[xIntersect_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xIntersect_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xIntersect_(coll1, ...)</description>
+<content><![CDATA[xIntersect_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xIntersect_</tabTrigger>
+</snippet>
+

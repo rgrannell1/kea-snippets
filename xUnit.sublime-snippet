@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xUnit(coll)</description>
-	<content><![CDATA[xUnit]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xUnit</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xUnit(coll)</description>
+<content><![CDATA[xUnit]]></content>
+<scope>source.r</scope>
+<tabTrigger>xUnit</tabTrigger>
+</snippet>
+

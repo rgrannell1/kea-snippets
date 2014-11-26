@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xMap_(fn, ...)</description>
-	<content><![CDATA[xMap_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xMap_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xMap_(fn, ...)</description>
+<content><![CDATA[xMap_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xMap_</tabTrigger>
+</snippet>
+

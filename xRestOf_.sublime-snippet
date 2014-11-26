@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xRestOf_(...)</description>
-	<content><![CDATA[xRestOf_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xRestOf_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xRestOf_(...)</description>
+<content><![CDATA[xRestOf_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xRestOf_</tabTrigger>
+</snippet>
+

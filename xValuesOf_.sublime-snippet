@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xValuesOf_(...)</description>
-	<content><![CDATA[xValuesOf_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xValuesOf_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xValuesOf_(...)</description>
+<content><![CDATA[xValuesOf_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xValuesOf_</tabTrigger>
+</snippet>
+

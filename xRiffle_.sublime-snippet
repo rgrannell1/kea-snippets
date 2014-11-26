@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xRiffle_(val, ...)</description>
-	<content><![CDATA[xRiffle_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xRiffle_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xRiffle_(val, ...)</description>
+<content><![CDATA[xRiffle_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xRiffle_</tabTrigger>
+</snippet>
+

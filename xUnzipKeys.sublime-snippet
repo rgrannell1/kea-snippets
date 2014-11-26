@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xUnzipKeys(coll)</description>
-	<content><![CDATA[xUnzipKeys]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xUnzipKeys</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xUnzipKeys(coll)</description>
+<content><![CDATA[xUnzipKeys]]></content>
+<scope>source.r</scope>
+<tabTrigger>xUnzipKeys</tabTrigger>
+</snippet>
+

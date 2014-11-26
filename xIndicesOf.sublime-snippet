@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xIndicesOf(coll)</description>
-	<content><![CDATA[xIndicesOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xIndicesOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xIndicesOf(coll)</description>
+<content><![CDATA[xIndicesOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xIndicesOf</tabTrigger>
+</snippet>
+

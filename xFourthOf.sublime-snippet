@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xFourthOf(coll)</description>
-	<content><![CDATA[xFourthOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xFourthOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xFourthOf(coll)</description>
+<content><![CDATA[xFourthOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xFourthOf</tabTrigger>
+</snippet>
+

@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xReduce_(fn, ...)</description>
-	<content><![CDATA[xReduce_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xReduce_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xReduce_(fn, ...)</description>
+<content><![CDATA[xReduce_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xReduce_</tabTrigger>
+</snippet>
+

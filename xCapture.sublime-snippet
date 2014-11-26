@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xCapture(val)</description>
-	<content><![CDATA[xCapture]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xCapture</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xCapture(val)</description>
+<content><![CDATA[xCapture]]></content>
+<scope>source.r</scope>
+<tabTrigger>xCapture</tabTrigger>
+</snippet>
+

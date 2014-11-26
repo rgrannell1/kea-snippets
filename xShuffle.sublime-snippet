@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xShuffle(coll)</description>
-	<content><![CDATA[xShuffle]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xShuffle</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xShuffle(coll)</description>
+<content><![CDATA[xShuffle]]></content>
+<scope>source.r</scope>
+<tabTrigger>xShuffle</tabTrigger>
+</snippet>
+

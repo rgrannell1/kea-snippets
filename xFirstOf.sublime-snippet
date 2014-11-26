@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xFirstOf(coll)</description>
-	<content><![CDATA[xFirstOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xFirstOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xFirstOf(coll)</description>
+<content><![CDATA[xFirstOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xFirstOf</tabTrigger>
+</snippet>
+

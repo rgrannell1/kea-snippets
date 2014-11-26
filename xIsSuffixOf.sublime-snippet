@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xIsSuffixOf(coll1, coll2)</description>
-	<content><![CDATA[xIsSuffixOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xIsSuffixOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xIsSuffixOf(coll1, coll2)</description>
+<content><![CDATA[xIsSuffixOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xIsSuffixOf</tabTrigger>
+</snippet>
+

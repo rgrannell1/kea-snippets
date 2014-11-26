@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xK(val)</description>
-	<content><![CDATA[xK]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xK</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xK(val)</description>
+<content><![CDATA[xK]]></content>
+<scope>source.r</scope>
+<tabTrigger>xK</tabTrigger>
+</snippet>
+

@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xScan_(fn, val, ...)</description>
-	<content><![CDATA[xScan_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xScan_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xScan_(fn, val, ...)</description>
+<content><![CDATA[xScan_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xScan_</tabTrigger>
+</snippet>
+

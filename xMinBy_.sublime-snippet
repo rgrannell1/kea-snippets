@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xMinBy_(fn, ...)</description>
-	<content><![CDATA[xMinBy_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xMinBy_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xMinBy_(fn, ...)</description>
+<content><![CDATA[xMinBy_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xMinBy_</tabTrigger>
+</snippet>
+

@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xToChars(str)</description>
-	<content><![CDATA[xToChars]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xToChars</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xToChars(str)</description>
+<content><![CDATA[xToChars]]></content>
+<scope>source.r</scope>
+<tabTrigger>xToChars</tabTrigger>
+</snippet>
+

@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xUnit_(...)</description>
-	<content><![CDATA[xUnit_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xUnit_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xUnit_(...)</description>
+<content><![CDATA[xUnit_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xUnit_</tabTrigger>
+</snippet>
+

@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xLift_(fn, ...)</description>
-	<content><![CDATA[xLift_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xLift_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xLift_(fn, ...)</description>
+<content><![CDATA[xLift_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xLift_</tabTrigger>
+</snippet>
+

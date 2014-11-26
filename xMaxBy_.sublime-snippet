@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xMaxBy_(fn, ...)</description>
-	<content><![CDATA[xMaxBy_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xMaxBy_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xMaxBy_(fn, ...)</description>
+<content><![CDATA[xMaxBy_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xMaxBy_</tabTrigger>
+</snippet>
+

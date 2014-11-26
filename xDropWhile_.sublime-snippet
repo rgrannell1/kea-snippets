@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xDropWhile_(pred, ...)</description>
-	<content><![CDATA[xDropWhile_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xDropWhile_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xDropWhile_(pred, ...)</description>
+<content><![CDATA[xDropWhile_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xDropWhile_</tabTrigger>
+</snippet>
+

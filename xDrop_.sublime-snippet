@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xDrop_(num, ...)</description>
-	<content><![CDATA[xDrop_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xDrop_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xDrop_(num, ...)</description>
+<content><![CDATA[xDrop_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xDrop_</tabTrigger>
+</snippet>
+

@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xFlatten(num, coll)</description>
-	<content><![CDATA[xFlatten]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xFlatten</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xFlatten(num, coll)</description>
+<content><![CDATA[xFlatten]]></content>
+<scope>source.r</scope>
+<tabTrigger>xFlatten</tabTrigger>
+</snippet>
+

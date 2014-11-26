@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xLastOf(coll)</description>
-	<content><![CDATA[xLastOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xLastOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xLastOf(coll)</description>
+<content><![CDATA[xLastOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xLastOf</tabTrigger>
+</snippet>
+

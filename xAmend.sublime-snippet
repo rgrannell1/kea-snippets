@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xAmend(rexp, str1, str2)</description>
-	<content><![CDATA[xAmend]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xAmend</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xAmend(rexp, str1, str2)</description>
+<content><![CDATA[xAmend]]></content>
+<scope>source.r</scope>
+<tabTrigger>xAmend</tabTrigger>
+</snippet>
+

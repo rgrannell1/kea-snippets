@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xZip(colls)</description>
-	<content><![CDATA[xZip]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xZip</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xZip(colls)</description>
+<content><![CDATA[xZip]]></content>
+<scope>source.r</scope>
+<tabTrigger>xZip</tabTrigger>
+</snippet>
+

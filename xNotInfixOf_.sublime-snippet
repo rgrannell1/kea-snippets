@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xNotInfixOf_(coll1, ...)</description>
-	<content><![CDATA[xNotInfixOf_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xNotInfixOf_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xNotInfixOf_(coll1, ...)</description>
+<content><![CDATA[xNotInfixOf_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xNotInfixOf_</tabTrigger>
+</snippet>
+

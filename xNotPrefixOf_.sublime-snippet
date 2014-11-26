@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xNotPrefixOf_(coll1, ...)</description>
-	<content><![CDATA[xNotPrefixOf_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xNotPrefixOf_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xNotPrefixOf_(coll1, ...)</description>
+<content><![CDATA[xNotPrefixOf_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xNotPrefixOf_</tabTrigger>
+</snippet>
+

@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xAnyOf(pred, coll)</description>
-	<content><![CDATA[xAnyOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xAnyOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xAnyOf(pred, coll)</description>
+<content><![CDATA[xAnyOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xAnyOf</tabTrigger>
+</snippet>
+

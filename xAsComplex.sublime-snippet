@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xAsComplex(ims)</description>
-	<content><![CDATA[xAsComplex]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xAsComplex</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xAsComplex(ims)</description>
+<content><![CDATA[xAsComplex]]></content>
+<scope>source.r</scope>
+<tabTrigger>xAsComplex</tabTrigger>
+</snippet>
+

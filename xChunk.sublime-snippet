@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xChunk(num, coll)</description>
-	<content><![CDATA[xChunk]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xChunk</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xChunk(num, coll)</description>
+<content><![CDATA[xChunk]]></content>
+<scope>source.r</scope>
+<tabTrigger>xChunk</tabTrigger>
+</snippet>
+

@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xArityOf(fn)</description>
-	<content><![CDATA[xArityOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xArityOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xArityOf(fn)</description>
+<content><![CDATA[xArityOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xArityOf</tabTrigger>
+</snippet>
+

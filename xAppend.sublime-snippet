@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xAppend(val, coll)</description>
-	<content><![CDATA[xAppend]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xAppend</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xAppend(val, coll)</description>
+<content><![CDATA[xAppend]]></content>
+<scope>source.r</scope>
+<tabTrigger>xAppend</tabTrigger>
+</snippet>
+

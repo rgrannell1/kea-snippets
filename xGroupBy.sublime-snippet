@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xGroupBy(fn, coll)</description>
-	<content><![CDATA[xGroupBy]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xGroupBy</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xGroupBy(fn, coll)</description>
+<content><![CDATA[xGroupBy]]></content>
+<scope>source.r</scope>
+<tabTrigger>xGroupBy</tabTrigger>
+</snippet>
+

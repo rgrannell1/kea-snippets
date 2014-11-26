@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xAsLogical_(...)</description>
-	<content><![CDATA[xAsLogical_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xAsLogical_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xAsLogical_(...)</description>
+<content><![CDATA[xAsLogical_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xAsLogical_</tabTrigger>
+</snippet>
+

@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xValuesOf(coll)</description>
-	<content><![CDATA[xValuesOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xValuesOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xValuesOf(coll)</description>
+<content><![CDATA[xValuesOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xValuesOf</tabTrigger>
+</snippet>
+

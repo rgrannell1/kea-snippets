@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xNotSubsetOf(coll1, coll2)</description>
-	<content><![CDATA[xNotSubsetOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xNotSubsetOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xNotSubsetOf(coll1, coll2)</description>
+<content><![CDATA[xNotSubsetOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xNotSubsetOf</tabTrigger>
+</snippet>
+

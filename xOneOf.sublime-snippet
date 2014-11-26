@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xOneOf(coll)</description>
-	<content><![CDATA[xOneOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xOneOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xOneOf(coll)</description>
+<content><![CDATA[xOneOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xOneOf</tabTrigger>
+</snippet>
+

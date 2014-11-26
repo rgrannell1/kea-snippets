@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xDistinctOf(coll)</description>
-	<content><![CDATA[xDistinctOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xDistinctOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xDistinctOf(coll)</description>
+<content><![CDATA[xDistinctOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xDistinctOf</tabTrigger>
+</snippet>
+

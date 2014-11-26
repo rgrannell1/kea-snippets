@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xThirdOf(coll)</description>
-	<content><![CDATA[xThirdOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xThirdOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xThirdOf(coll)</description>
+<content><![CDATA[xThirdOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xThirdOf</tabTrigger>
+</snippet>
+

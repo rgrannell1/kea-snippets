@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xNotSuffixOf_(coll1, ...)</description>
-	<content><![CDATA[xNotSuffixOf_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xNotSuffixOf_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xNotSuffixOf_(coll1, ...)</description>
+<content><![CDATA[xNotSuffixOf_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xNotSuffixOf_</tabTrigger>
+</snippet>
+

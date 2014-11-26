@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xPowerSetOf(coll)</description>
-	<content><![CDATA[xPowerSetOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xPowerSetOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xPowerSetOf(coll)</description>
+<content><![CDATA[xPowerSetOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xPowerSetOf</tabTrigger>
+</snippet>
+

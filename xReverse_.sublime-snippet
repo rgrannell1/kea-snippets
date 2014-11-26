@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xReverse_(...)</description>
-	<content><![CDATA[xReverse_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xReverse_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xReverse_(...)</description>
+<content><![CDATA[xReverse_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xReverse_</tabTrigger>
+</snippet>
+

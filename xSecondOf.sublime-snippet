@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xSecondOf(coll)</description>
-	<content><![CDATA[xSecondOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xSecondOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xSecondOf(coll)</description>
+<content><![CDATA[xSecondOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xSecondOf</tabTrigger>
+</snippet>
+

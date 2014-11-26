@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xJoin_(...)</description>
-	<content><![CDATA[xJoin_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xJoin_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xJoin_(...)</description>
+<content><![CDATA[xJoin_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xJoin_</tabTrigger>
+</snippet>
+

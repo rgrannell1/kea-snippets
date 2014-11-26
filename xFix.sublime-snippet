@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xFix(fn, coll)</description>
-	<content><![CDATA[xFix]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xFix</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xFix(fn, coll)</description>
+<content><![CDATA[xFix]]></content>
+<scope>source.r</scope>
+<tabTrigger>xFix</tabTrigger>
+</snippet>
+

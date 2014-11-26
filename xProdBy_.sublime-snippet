@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xProdBy_(fn, ...)</description>
-	<content><![CDATA[xProdBy_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xProdBy_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xProdBy_(fn, ...)</description>
+<content><![CDATA[xProdBy_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xProdBy_</tabTrigger>
+</snippet>
+

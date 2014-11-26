@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xIsMatch(rexp, str)</description>
-	<content><![CDATA[xIsMatch]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xIsMatch</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xIsMatch(rexp, str)</description>
+<content><![CDATA[xIsMatch]]></content>
+<scope>source.r</scope>
+<tabTrigger>xIsMatch</tabTrigger>
+</snippet>
+

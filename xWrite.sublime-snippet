@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xWrite(str1, str2)</description>
-	<content><![CDATA[xWrite]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xWrite</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xWrite(str1, str2)</description>
+<content><![CDATA[xWrite]]></content>
+<scope>source.r</scope>
+<tabTrigger>xWrite</tabTrigger>
+</snippet>
+

@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xDeepMap_(fn, ...)</description>
-	<content><![CDATA[xDeepMap_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xDeepMap_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xDeepMap_(fn, ...)</description>
+<content><![CDATA[xDeepMap_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xDeepMap_</tabTrigger>
+</snippet>
+

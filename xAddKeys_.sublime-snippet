@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xAddKeys_(strs, ...)</description>
-	<content><![CDATA[xAddKeys_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xAddKeys_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xAddKeys_(strs, ...)</description>
+<content><![CDATA[xAddKeys_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xAddKeys_</tabTrigger>
+</snippet>
+

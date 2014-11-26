@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xDuplicatesOf(coll)</description>
-	<content><![CDATA[xDuplicatesOf]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xDuplicatesOf</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xDuplicatesOf(coll)</description>
+<content><![CDATA[xDuplicatesOf]]></content>
+<scope>source.r</scope>
+<tabTrigger>xDuplicatesOf</tabTrigger>
+</snippet>
+

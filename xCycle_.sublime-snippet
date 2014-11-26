@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xCycle_(num, ...)</description>
-	<content><![CDATA[xCycle_]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xCycle_</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xCycle_(num, ...)</description>
+<content><![CDATA[xCycle_]]></content>
+<scope>source.r</scope>
+<tabTrigger>xCycle_</tabTrigger>
+</snippet>
+

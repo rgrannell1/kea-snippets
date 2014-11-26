@@ -1,8 +1,8 @@
 
-	<snippet>
-	<description>xMeanBy(fn, coll)</description>
-	<content><![CDATA[xMeanBy]]></content>
-	<scope>source.r</scope>
-	<tabTrigger>xMeanBy</tabTrigger>
-	</snippet>
-	
+<snippet>
+<description>xMeanBy(fn, coll)</description>
+<content><![CDATA[xMeanBy]]></content>
+<scope>source.r</scope>
+<tabTrigger>xMeanBy</tabTrigger>
+</snippet>
+
