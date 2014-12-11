@@ -1,0 +1,8 @@
+
+<snippet>
+<description>xMedianBy(fn, coll)</description>
+<content><![CDATA[xMedianBy]]></content>
+<scope>source.r</scope>
+<tabTrigger>xMedianBy</tabTrigger>
+</snippet>
+

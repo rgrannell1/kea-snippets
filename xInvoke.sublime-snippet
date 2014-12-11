@@ -1,6 +1,6 @@
 
 <snippet>
-<description>xInvoke(fn, coll)</description>
+<description>xInvoke(fn, val)</description>
 <content><![CDATA[xInvoke]]></content>
 <scope>source.r</scope>
 <tabTrigger>xInvoke</tabTrigger>
