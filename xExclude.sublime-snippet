@@ -1,0 +1,8 @@
+
+<snippet>
+<description>xExclude(coll1, coll2)</description>
+<content><![CDATA[xExclude]]></content>
+<scope>source.r</scope>
+<tabTrigger>xExclude</tabTrigger>
+</snippet>
+
