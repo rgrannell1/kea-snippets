@@ -1,0 +1,8 @@
+
+<snippet>
+<description>xAmassBy(fn, coll)</description>
+<content><![CDATA[xAmassBy]]></content>
+<scope>source.r</scope>
+<tabTrigger>xAmassBy</tabTrigger>
+</snippet>
+
